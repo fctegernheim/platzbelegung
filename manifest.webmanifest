@@ -1,0 +1,16 @@
+{
+  "name": "FC Tegernheim Platzbelegung",
+  "short_name": "Platzbelegung",
+  "description": "Platz- und Kabinenbelegung der Abteilung Fußball des FC Tegernheim e.V.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "minimal-ui",
+  "background_color": "#ffffff",
+  "theme_color": "#780404",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
