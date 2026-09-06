@@ -889,6 +889,26 @@
       ],
       "status": "genehmigt",
       "erstelltVon": "leitung"
+    },
+    {
+      "id": "bmtph5evqgv476",
+      "platzId": "p1",
+      "datum": "2026-09-06",
+      "von": "11:00",
+      "bis": "13:30",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Gast 1",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-06T07:12",
+      "konflikt": false
     }
   ],
   "zugang": {
