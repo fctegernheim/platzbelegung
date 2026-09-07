@@ -1752,23 +1752,6 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-07T12:54"
-    },
-    {
-      "id": "bmtr8sejz7fj9w",
-      "platzId": "p2",
-      "datum": "2026-09-07",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "C-Jugend 2",
-      "kabinen": [],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-07T12:54",
-      "serieId": "smtr8se301ct0o",
-      "konflikt": false
     }
   ],
   "zugang": {
