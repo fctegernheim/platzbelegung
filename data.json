@@ -936,24 +936,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtr6c95qhrvno",
-      "platzId": "p2",
-      "datum": "2026-09-07",
-      "von": "18:00",
-      "bis": "19:30",
-      "typ": "Training",
-      "mannschaft": "1. Mannschaft",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "notiz": "",
-      "status": "abgelehnt",
-      "grund": "Belegt",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T11:46",
-      "konflikt": false
-    },
-    {
       "platzId": "p2",
       "von": "17:30",
       "bis": "19:00",
