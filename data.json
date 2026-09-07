@@ -883,25 +883,6 @@
       "geaendertAm": "2026-09-07T05:30"
     },
     {
-      "id": "bmtibl6d376jzw",
-      "platzId": "p2",
-      "datum": "2026-09-18",
-      "von": "18:00",
-      "bis": "20:00",
-      "typ": "Spiel",
-      "mannschaft": "A-Jugend (U 19)",
-      "kabinen": [
-        "Heim 2",
-        "Gast 2"
-      ],
-      "notiz": "SV 08 Auerbach",
-      "status": "angefragt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-07T05:35",
-      "konflikt": false
-    },
-    {
       "id": "bmrk6noq7mz4bi",
       "platzId": "p1",
       "datum": "2026-09-19",
@@ -915,6 +896,26 @@
         "Gast 2"
       ],
       "notiz": "DJK Vornbach",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-07T05:36",
+      "konflikt": false
+    },
+    {
+      "id": "bmtibl6d376jzw",
+      "platzId": "p2",
+      "datum": "2026-09-18",
+      "von": "18:00",
+      "bis": "20:00",
+      "typ": "Spiel",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "SV 08 Auerbach",
       "status": "angefragt",
       "grund": "",
       "erstelltVon": "leitung",
