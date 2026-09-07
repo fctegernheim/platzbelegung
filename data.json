@@ -947,10 +947,10 @@
         "Heim 1"
       ],
       "notiz": "",
-      "status": "angefragt",
-      "grund": "",
+      "status": "abgelehnt",
+      "grund": "Belegt",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T11:45",
+      "geaendertAm": "2026-09-07T11:46",
       "konflikt": false
     }
   ],
