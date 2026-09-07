@@ -2640,6 +2640,24 @@
       "grund": "",
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-07T17:52"
+    },
+    {
+      "id": "bmtrjg6f9mucmo",
+      "platzId": "p2",
+      "datum": "2026-09-10",
+      "von": "17:30",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "B-Jugend 2",
+      "kabinen": [
+        "Gast 2"
+      ],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-07T17:52",
+      "konflikt": true
     }
   ],
   "zugang": {
