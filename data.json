@@ -4460,6 +4460,22 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-07T18:03",
       "konflikt": true
+    },
+    {
+      "id": "bmtrjuzot8zqbw",
+      "platzId": "p4",
+      "datum": "2026-09-17",
+      "von": "16:30",
+      "bis": "17:30",
+      "typ": "Training",
+      "mannschaft": "G-Jugend",
+      "kabinen": [],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-07T18:04",
+      "konflikt": true
     }
   ],
   "zugang": {
