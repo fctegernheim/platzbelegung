@@ -4008,6 +4008,24 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-07T17:54",
       "konflikt": false
+    },
+    {
+      "id": "bmtrjizfcevstw",
+      "platzId": "p3",
+      "datum": "2026-09-16",
+      "von": "16:45",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-07T17:54",
+      "konflikt": false
     }
   ],
   "zugang": {
