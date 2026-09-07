@@ -3074,6 +3074,24 @@
       "grund": "",
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-07T17:53"
+    },
+    {
+      "id": "bmtrjh6g1uujlh",
+      "platzId": "p4",
+      "datum": "2026-09-14",
+      "von": "16:45",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-07T17:53",
+      "konflikt": false
     }
   ],
   "zugang": {
