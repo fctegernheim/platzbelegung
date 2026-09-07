@@ -128,21 +128,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk6noq7mz4bi",
-      "platzId": "p1",
-      "datum": "2026-09-19",
-      "von": "13:30",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "1. Mannschaft",
-      "notiz": "DJK Vornbach",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk6oype05v8w",
       "platzId": "p1",
       "datum": "2026-10-03",
@@ -914,6 +899,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-07T05:35",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk6noq7mz4bi",
+      "platzId": "p1",
+      "datum": "2026-09-19",
+      "von": "13:30",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Gast 2"
+      ],
+      "notiz": "DJK Vornbach",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-07T05:36",
       "konflikt": false
     }
   ],
