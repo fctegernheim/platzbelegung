@@ -943,17 +943,7 @@
     "iterationen": 310000
   },
   "serien": [],
-  "sperren": [
-    {
-      "id": "xmtqt0khdipovm",
-      "art": "platz",
-      "ziel": "p1",
-      "von": "2026-09-07T00:00",
-      "bis": "2026-09-09T23:59",
-      "grund": "",
-      "erstelltAm": "2026-09-07T05:32"
-    }
-  ],
+  "sperren": [],
   "zugangLeitung": {
     "salz": "UjmPy8Od/Ee0f4dbQAFmwQ==",
     "iv": "ug67jIXqLTbha9TC",
