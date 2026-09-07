@@ -3992,6 +3992,22 @@
       "grund": "",
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-07T17:54"
+    },
+    {
+      "id": "bmtrjijr8c38fb",
+      "platzId": "p4",
+      "datum": "2026-09-09",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-07T17:54",
+      "konflikt": false
     }
   ],
   "zugang": {
