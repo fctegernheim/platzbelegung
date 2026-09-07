@@ -2667,22 +2667,6 @@
       "mannschaft": "E-Jugend",
       "kabinen": [],
       "notiz": "",
-      "id": "bmtrjh5isyvn6z",
-      "datum": "2026-09-10",
-      "serieId": "smtrjh4zpfxfj8",
-      "status": "angefragt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T17:53"
-    },
-    {
-      "platzId": "p4",
-      "von": "17:00",
-      "bis": "18:30",
-      "typ": "Training",
-      "mannschaft": "E-Jugend",
-      "kabinen": [],
-      "notiz": "",
       "id": "bmtrjh5itvbt81",
       "datum": "2026-09-17",
       "serieId": "smtrjh4zpfxfj8",
@@ -4476,6 +4460,23 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-07T18:04",
       "konflikt": true
+    },
+    {
+      "id": "bmtrjh5isyvn6z",
+      "platzId": "p4",
+      "datum": "2026-09-10",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend",
+      "kabinen": [],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-07T18:13",
+      "serieId": "smtrjh4zpfxfj8",
+      "konflikt": false
     }
   ],
   "zugang": {
