@@ -4633,17 +4633,7 @@
       }
     }
   ],
-  "sperren": [
-    {
-      "id": "xmtr4iym072mi9",
-      "art": "platz",
-      "ziel": "p1",
-      "von": "2026-09-07T00:00",
-      "bis": "2026-09-10T23:59",
-      "grund": "Regenerationsphase",
-      "erstelltAm": "2026-09-07T10:54"
-    }
-  ],
+  "sperren": [],
   "zugangLeitung": {
     "salz": "UjmPy8Od/Ee0f4dbQAFmwQ==",
     "iv": "ug67jIXqLTbha9TC",
