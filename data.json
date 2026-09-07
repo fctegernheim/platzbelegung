@@ -922,26 +922,6 @@
       "konflikt": false
     },
     {
-      "id": "bmrk7j3fwl8iec",
-      "platzId": "p1",
-      "datum": "2026-09-13",
-      "von": "13:30",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "2. Mannschaft",
-      "kabinen": [
-        "Heim 2",
-        "Gast 1",
-        "Schiedsrichter"
-      ],
-      "notiz": "Regensburger Turnerschaft",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-07T05:37",
-      "konflikt": false
-    },
-    {
       "platzId": "p2",
       "von": "17:30",
       "bis": "19:00",
@@ -4457,6 +4437,26 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-07T18:13",
       "serieId": "smtrjh4zpfxfj8",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk7j3fwl8iec",
+      "platzId": "p1",
+      "datum": "2026-09-13",
+      "von": "13:30",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "2. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "Regensburger Turnerschaft",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-07T19:00",
       "konflikt": false
     }
   ],
