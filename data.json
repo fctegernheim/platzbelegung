@@ -13604,15 +13604,15 @@
       "typ": "Spiel",
       "mannschaft": "A-Jugend (U 19)",
       "kabinen": [
+        "Heim 1",
         "Gast 1",
-        "Gast 2",
         "Schiedsrichter"
       ],
       "notiz": "",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T11:16",
+      "geaendertAm": "2026-09-08T11:17",
       "konflikt": false
     }
   ],
