@@ -13081,25 +13081,6 @@
         "Gast 1"
       ],
       "notiz": "",
-      "id": "bmtsjk7r8m9l59",
-      "datum": "2026-09-18",
-      "serieId": "smtsjk72yelmip",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:43",
-      "konflikt": true
-    },
-    {
-      "platzId": "p2",
-      "von": "17:00",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "A-Jugend (U 19)",
-      "kabinen": [
-        "Gast 1"
-      ],
-      "notiz": "",
       "id": "bmtsjk7r8iwod1",
       "datum": "2026-09-25",
       "serieId": "smtsjk72yelmip",
