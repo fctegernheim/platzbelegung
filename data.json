@@ -13542,24 +13542,6 @@
       "geaendertAm": "2026-09-08T10:43"
     },
     {
-      "id": "bmtsk2kxscozyo",
-      "platzId": "p2",
-      "datum": "2026-09-12",
-      "von": "09:00",
-      "bis": "12:30",
-      "typ": "Training",
-      "mannschaft": "B-Jugend (U 17)",
-      "kabinen": [
-        "Gast 1"
-      ],
-      "notiz": "Trainingstag",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:57",
-      "konflikt": false
-    },
-    {
       "id": "bmtsk4gi4jzyzy",
       "platzId": "p2",
       "datum": "2026-09-13",
@@ -13576,6 +13558,24 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T10:59",
+      "konflikt": false
+    },
+    {
+      "id": "bmtsk2kxscozyo",
+      "platzId": "p2",
+      "datum": "2026-09-12",
+      "von": "09:00",
+      "bis": "14:00",
+      "typ": "Training",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "Trainingstag",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:00",
       "konflikt": false
     }
   ],
