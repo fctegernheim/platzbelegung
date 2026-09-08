@@ -353,21 +353,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk7lqc7b28og",
-      "platzId": "p1",
-      "datum": "2026-09-27",
-      "von": "14:00",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "2. Mannschaft",
-      "notiz": "TSV Bernhardswald",
-      "kabinen": [
-        "Heim 2"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk7mvg4bcw0r",
       "platzId": "p1",
       "datum": "2026-10-04",
@@ -13609,6 +13594,26 @@
         "Schiedsrichter"
       ],
       "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:17",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk7lqc7b28og",
+      "platzId": "p1",
+      "datum": "2026-09-27",
+      "von": "14:00",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "2. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "TSV Bernhardswald",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
