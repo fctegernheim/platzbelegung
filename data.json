@@ -13768,6 +13768,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T11:39",
       "konflikt": false
+    },
+    {
+      "id": "bmtslmu8xx91vk",
+      "platzId": "p1",
+      "datum": "2027-05-29",
+      "von": "16:00",
+      "bis": "18:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "JFG Lamer Winkel",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:41",
+      "konflikt": false
     }
   ],
   "zugang": {
