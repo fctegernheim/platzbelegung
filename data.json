@@ -353,21 +353,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk7zghwgzeft",
-      "platzId": "p1",
-      "datum": "2027-05-05",
-      "von": "17:30",
-      "bis": "19:30",
-      "typ": "Spiel",
-      "mannschaft": "2. Mannschaft",
-      "notiz": "SC Lorenzen",
-      "kabinen": [
-        "Heim 2"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk80pvyvzrc6",
       "platzId": "p1",
       "datum": "2027-05-23",
@@ -13732,6 +13717,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T11:34",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk7zghwgzeft",
+      "platzId": "p1",
+      "datum": "2027-05-05",
+      "von": "17:30",
+      "bis": "19:30",
+      "typ": "Spiel",
+      "mannschaft": "2. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "SC Lorenzen",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:35",
       "konflikt": false
     }
   ],
