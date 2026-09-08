@@ -12092,25 +12092,6 @@
       "konflikt": true
     },
     {
-      "id": "bmtsjfi1lxnvcn",
-      "platzId": "p2",
-      "datum": "2026-09-10",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "B-Jugend (U 17)",
-      "kabinen": [
-        "Gast 1"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:40",
-      "serieId": "smtsjfh9m376si",
-      "konflikt": true
-    },
-    {
       "id": "bmtsje97p0wyw3",
       "platzId": "p2",
       "datum": "2026-09-10",
