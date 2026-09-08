@@ -4466,24 +4466,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtibhp0xlz6a4",
-      "platzId": "p2",
-      "datum": "2026-09-08",
-      "von": "19:00",
-      "bis": "20:30",
-      "typ": "Training",
-      "mannschaft": "1. Mannschaft",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T06:00",
-      "konflikt": true
-    },
-    {
       "id": "bmtrjfk8ukrsku",
       "platzId": "p4",
       "datum": "2026-09-08",
