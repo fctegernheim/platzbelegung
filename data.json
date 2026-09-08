@@ -13770,26 +13770,6 @@
       "konflikt": false
     },
     {
-      "id": "bmrk7u0jhqukx9",
-      "platzId": "p1",
-      "datum": "2027-03-27",
-      "von": "14:00",
-      "bis": "16:00",
-      "typ": "Spiel",
-      "mannschaft": "2. Mannschaft",
-      "kabinen": [
-        "Heim 2",
-        "Gast 1",
-        "Schiedsrichter"
-      ],
-      "notiz": "VfR Regensburg",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T12:06",
-      "konflikt": false
-    },
-    {
       "id": "bmrk72zfgufoc2",
       "platzId": "p1",
       "datum": "2027-03-27",
@@ -13827,6 +13807,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T12:08",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk7u0jhqukx9",
+      "platzId": "p1",
+      "datum": "2027-03-27",
+      "von": "15:00",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "2. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "VfR Regensburg",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T12:15",
       "konflikt": false
     }
   ],
