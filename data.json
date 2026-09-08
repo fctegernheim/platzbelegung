@@ -173,21 +173,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk6yjeqcd6d0",
-      "platzId": "p1",
-      "datum": "2026-11-14",
-      "von": "12:30",
-      "bis": "16:00",
-      "typ": "Spiel",
-      "mannschaft": "1. Mannschaft",
-      "notiz": "TSV 1883 Bogen",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk700x4jr0iq",
       "platzId": "p1",
       "datum": "2026-11-28",
@@ -13652,6 +13637,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T11:25",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk6yjeqcd6d0",
+      "platzId": "p1",
+      "datum": "2026-11-14",
+      "von": "12:30",
+      "bis": "16:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Gast 2"
+      ],
+      "notiz": "TSV 1883 Bogen",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:26",
       "konflikt": false
     }
   ],
