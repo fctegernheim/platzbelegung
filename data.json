@@ -756,21 +756,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmtibiulafpw88",
-      "platzId": "p2",
-      "datum": "2026-09-10",
-      "von": "18:30",
-      "bis": "20:30",
-      "typ": "Training",
-      "mannschaft": "1. Mannschaft",
-      "notiz": "",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmtlhxshkwcnan",
       "platzId": "p2",
       "datum": "2026-09-03",
