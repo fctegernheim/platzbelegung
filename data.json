@@ -143,21 +143,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk700x4jr0iq",
-      "platzId": "p1",
-      "datum": "2026-11-28",
-      "von": "12:30",
-      "bis": "16:00",
-      "typ": "Spiel",
-      "mannschaft": "1. Mannschaft",
-      "notiz": "1. FC 1911 Passau",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk71btq1sfyz",
       "platzId": "p1",
       "datum": "2027-03-13",
@@ -13802,6 +13787,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T12:02",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk700x4jr0iq",
+      "platzId": "p1",
+      "datum": "2026-11-28",
+      "von": "12:30",
+      "bis": "16:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Gast 2"
+      ],
+      "notiz": "1. FC 1911 Passau",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T12:04",
       "konflikt": false
     }
   ],
