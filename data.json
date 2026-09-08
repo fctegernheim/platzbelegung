@@ -4391,23 +4391,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtrjk8klkw1bi",
-      "platzId": "p4",
-      "datum": "2026-09-09",
-      "von": "16:45",
-      "bis": "18:00",
-      "typ": "Training",
-      "mannschaft": "F-Jugend",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:02"
-    },
-    {
       "id": "bmtrjijr8c38fb",
       "platzId": "p4",
       "datum": "2026-09-09",
