@@ -323,21 +323,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk7xmyzi2myp",
-      "platzId": "p1",
-      "datum": "2027-04-25",
-      "von": "14:00",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "2. Mannschaft",
-      "notiz": "SpVgg Stadtamhof Rgbg",
-      "kabinen": [
-        "Heim 2"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk80pvyvzrc6",
       "platzId": "p1",
       "datum": "2027-05-23",
@@ -13742,6 +13727,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T11:35",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk7xmyzi2myp",
+      "platzId": "p1",
+      "datum": "2027-04-25",
+      "von": "14:00",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "2. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "SpVgg Stadtamhof Rgbg",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:37",
       "konflikt": false
     }
   ],
