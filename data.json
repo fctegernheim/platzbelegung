@@ -11148,26 +11148,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
-      ],
-      "notiz": "",
-      "id": "bmtsje97p0wyw3",
-      "datum": "2026-09-10",
-      "serieId": "smtsje8lwdg0g0",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38",
-      "konflikt": true
-    },
-    {
-      "platzId": "p2",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "B-Jugend 2",
-      "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97pl56l6",
@@ -11176,7 +11157,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11186,7 +11167,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97p0bo5e",
@@ -11195,7 +11176,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11205,7 +11186,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97p7zmet",
@@ -11214,7 +11195,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11224,7 +11205,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97p65s56",
@@ -11233,7 +11214,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11243,7 +11224,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97q6dmnc",
@@ -11252,7 +11233,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11262,7 +11243,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97q5vehw",
@@ -11271,7 +11252,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11281,7 +11262,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qgaon7",
@@ -11290,7 +11271,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11300,7 +11281,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97q281do",
@@ -11309,7 +11290,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11319,7 +11300,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97q75siz",
@@ -11328,7 +11309,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11338,7 +11319,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qbcajj",
@@ -11347,7 +11328,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11357,7 +11338,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97quiwzc",
@@ -11366,7 +11347,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11376,7 +11357,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qxpelg",
@@ -11385,7 +11366,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11394,7 +11376,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97q81th5",
@@ -11403,7 +11385,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11412,7 +11395,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qhwjs7",
@@ -11421,7 +11404,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11430,7 +11414,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qm31m2",
@@ -11439,7 +11423,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11448,7 +11433,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qe0wq3",
@@ -11457,7 +11442,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11466,7 +11452,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qrngtx",
@@ -11475,7 +11461,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11484,7 +11471,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97q2rhca",
@@ -11493,7 +11480,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11502,7 +11490,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qe6bm7",
@@ -11511,7 +11499,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11520,7 +11509,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qxcdok",
@@ -11529,7 +11518,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11538,7 +11528,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qj0o4w",
@@ -11547,7 +11537,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11556,7 +11547,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97q5zpgj",
@@ -11565,7 +11556,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11574,7 +11566,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qrbosa",
@@ -11583,7 +11575,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11592,7 +11585,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qa2366",
@@ -11601,7 +11594,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -11610,7 +11604,7 @@
       "typ": "Training",
       "mannschaft": "B-Jugend 2",
       "kabinen": [
-        "Gast 1"
+        "Jugend 2"
       ],
       "notiz": "",
       "id": "bmtsje97qbwriu",
@@ -11619,7 +11613,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:38"
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -12113,6 +12108,25 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T10:40",
       "serieId": "smtsjfh9m376si",
+      "konflikt": true
+    },
+    {
+      "id": "bmtsje97p0wyw3",
+      "platzId": "p2",
+      "datum": "2026-09-10",
+      "von": "17:30",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "B-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:40",
+      "serieId": "smtsje8lwdg0g0",
       "konflikt": true
     }
   ],
@@ -12610,7 +12624,7 @@
         "typ": "Training",
         "mannschaft": "B-Jugend 2",
         "kabinen": [
-          "Gast 1"
+          "Jugend 2"
         ],
         "notiz": ""
       }
