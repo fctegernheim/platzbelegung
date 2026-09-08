@@ -13679,10 +13679,10 @@
       "mannschaft": "TESTMANNSCHAFT",
       "kabinen": [],
       "notiz": "",
-      "status": "angefragt",
-      "grund": "",
+      "status": "abgelehnt",
+      "grund": "ABLEHNUNGSGRUND",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-08T13:08",
+      "geaendertAm": "2026-09-08T13:21",
       "konflikt": false
     }
   ],
