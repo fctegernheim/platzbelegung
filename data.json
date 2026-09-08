@@ -203,21 +203,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk777ptauru3",
-      "platzId": "p1",
-      "datum": "2027-05-08",
-      "von": "13:30",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "1. Mannschaft",
-      "notiz": "SV Grainet",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk787zlr9wq5",
       "platzId": "p1",
       "datum": "2027-05-15",
@@ -13733,6 +13718,26 @@
         "Schiedsrichter"
       ],
       "notiz": "SC Lorenzen",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:35",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk777ptauru3",
+      "platzId": "p1",
+      "datum": "2027-05-08",
+      "von": "13:30",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Gast 2"
+      ],
+      "notiz": "SV Grainet",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
