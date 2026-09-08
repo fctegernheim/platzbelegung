@@ -7425,6 +7425,475 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T10:18",
       "konflikt": true
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbyqlqgv",
+      "datum": "2026-09-08",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19",
+      "konflikt": true
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbzahh33",
+      "datum": "2026-09-15",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbzmm09c",
+      "datum": "2026-09-22",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbz9i3pj",
+      "datum": "2026-09-29",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbzjdjer",
+      "datum": "2026-10-06",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbzw95y9",
+      "datum": "2026-10-13",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbz55nq2",
+      "datum": "2026-10-20",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbzfw41v",
+      "datum": "2026-10-27",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbz2th7z",
+      "datum": "2026-11-03",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbzmip53",
+      "datum": "2026-11-10",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbz99p17",
+      "datum": "2026-11-17",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbz225rf",
+      "datum": "2026-11-24",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbzl1pud",
+      "datum": "2026-12-01",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbzrce52",
+      "datum": "2026-12-08",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbztg9ff",
+      "datum": "2026-12-15",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbz55xba",
+      "datum": "2026-12-22",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbz8jgp5",
+      "datum": "2026-12-29",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbzmj1jn",
+      "datum": "2027-01-05",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbziil3h",
+      "datum": "2027-01-12",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbzdz97a",
+      "datum": "2027-01-19",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkbzr2s6e",
+      "datum": "2027-01-26",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkc05t46o",
+      "datum": "2027-02-02",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkc0sqqz5",
+      "datum": "2027-02-09",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkc0yg819",
+      "datum": "2027-02-16",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkc07lio1",
+      "datum": "2027-02-23",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
+    },
+    {
+      "platzId": "p2",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "id": "bmtsipkc01tqr6",
+      "datum": "2027-03-02",
+      "serieId": "smtsip2vjfge03",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:19"
     }
   ],
   "zugang": {
@@ -7719,6 +8188,29 @@
         "mannschaft": "B-Jugend 2",
         "kabinen": [
           "Jugend 2"
+        ],
+        "notiz": ""
+      }
+    },
+    {
+      "id": "smtsip2vjfge03",
+      "periode": "woechentlich",
+      "wochentage": [
+        1
+      ],
+      "start": "2026-09-08",
+      "ende": null,
+      "horizont": "2027-03-08",
+      "status": "genehmigt",
+      "erstelltVon": "leitung",
+      "vorlage": {
+        "platzId": "p2",
+        "von": "19:00",
+        "bis": "20:30",
+        "typ": "Training",
+        "mannschaft": "1. Mannschaft",
+        "kabinen": [
+          "Heim 1"
         ],
         "notiz": ""
       }
