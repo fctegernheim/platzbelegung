@@ -870,25 +870,6 @@
         "Jugend 2"
       ],
       "notiz": "",
-      "id": "bmtr8xiqxot1sx",
-      "datum": "2026-09-09",
-      "serieId": "smtr8xi8yt1hqr",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:10",
-      "konflikt": false
-    },
-    {
-      "platzId": "p2",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "C-Jugend 2",
-      "kabinen": [
-        "Jugend 2"
-      ],
-      "notiz": "",
       "id": "bmtr8xiqx6myfj",
       "datum": "2026-09-14",
       "serieId": "smtr8xi8yt1hqr",
@@ -10230,6 +10211,25 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T10:32",
+      "konflikt": true
+    },
+    {
+      "id": "bmtr8xiqxot1sx",
+      "platzId": "p3",
+      "datum": "2026-09-09",
+      "von": "17:30",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "C-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:33",
+      "serieId": "smtr8xi8yt1hqr",
       "konflikt": true
     }
   ],
