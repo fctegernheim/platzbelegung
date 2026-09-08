@@ -218,21 +218,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk72zfgufoc2",
-      "platzId": "p1",
-      "datum": "2027-03-27",
-      "von": "17:00",
-      "bis": "19:00",
-      "typ": "Spiel",
-      "mannschaft": "1. Mannschaft",
-      "notiz": "SC Luhe-Wildenau",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk80pvyvzrc6",
       "platzId": "p1",
       "datum": "2027-05-23",
@@ -13813,6 +13798,26 @@
         "Schiedsrichter"
       ],
       "notiz": "VfR Regensburg",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T12:06",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk72zfgufoc2",
+      "platzId": "p1",
+      "datum": "2027-03-27",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Gast 2"
+      ],
+      "notiz": "SC Luhe-Wildenau",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
