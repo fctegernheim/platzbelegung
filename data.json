@@ -143,21 +143,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk6oype05v8w",
-      "platzId": "p1",
-      "datum": "2026-10-03",
-      "von": "13:30",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "1. Mannschaft",
-      "notiz": "1. FC Bad Kötzting",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk6x668ebote",
       "platzId": "p1",
       "datum": "2026-10-31",
@@ -13788,6 +13773,26 @@
         "Schiedsrichter"
       ],
       "notiz": "SG Walhalla Regensburg",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T12:01",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk6oype05v8w",
+      "platzId": "p1",
+      "datum": "2026-10-03",
+      "von": "13:30",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Gast 2"
+      ],
+      "notiz": "1. FC Bad Kötzting",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
