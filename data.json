@@ -13581,26 +13581,6 @@
       "konflikt": true
     },
     {
-      "id": "bmrk7lqc7b28og",
-      "platzId": "p1",
-      "datum": "2026-09-27",
-      "von": "14:00",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "2. Mannschaft",
-      "kabinen": [
-        "Heim 2",
-        "Gast 2",
-        "Schiedsrichter"
-      ],
-      "notiz": "TSV Bernhardswald",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T11:17",
-      "konflikt": false
-    },
-    {
       "id": "bmtskqzyvslolx",
       "platzId": "p1",
       "datum": "2026-09-27",
@@ -13614,6 +13594,26 @@
         "Schiedsrichter"
       ],
       "notiz": "FC Amberg",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:18",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk7lqc7b28og",
+      "platzId": "p1",
+      "datum": "2026-09-27",
+      "von": "14:00",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "2. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "TSV Bernhardswald",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
