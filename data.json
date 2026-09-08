@@ -2645,23 +2645,6 @@
       "geaendertAm": "2026-09-07T18:47"
     },
     {
-      "id": "bmtrjephng6a9z",
-      "platzId": "p2",
-      "datum": "2026-09-08",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "B-Jugend 2",
-      "kabinen": [
-        "Gast 2"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
-    },
-    {
       "platzId": "p4",
       "von": "17:00",
       "bis": "18:30",
