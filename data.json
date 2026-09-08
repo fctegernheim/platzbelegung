@@ -13658,6 +13658,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T11:26",
       "konflikt": false
+    },
+    {
+      "id": "bmtsl4rywoxr4a",
+      "platzId": "p1",
+      "datum": "2027-03-21",
+      "von": "11:00",
+      "bis": "13:30",
+      "typ": "Spiel",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Heim 2",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "JFG Drei Wappen Oberpfalz",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:27",
+      "konflikt": false
     }
   ],
   "zugang": {
