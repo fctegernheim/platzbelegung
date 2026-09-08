@@ -4481,6 +4481,493 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-08T09:06",
       "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwc5khj0",
+      "datum": "2026-09-07",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwcyhcbr",
+      "datum": "2026-09-14",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwc53a7e",
+      "datum": "2026-09-21",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwcjhraq",
+      "datum": "2026-09-28",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwcw8i0p",
+      "datum": "2026-10-05",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwc322iq",
+      "datum": "2026-10-12",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwciav1n",
+      "datum": "2026-10-19",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwccguqc",
+      "datum": "2026-10-26",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwcghivx",
+      "datum": "2026-11-02",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwcbyw77",
+      "datum": "2026-11-09",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwct5xtn",
+      "datum": "2026-11-16",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdrphjk",
+      "datum": "2026-11-23",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdpp3m9",
+      "datum": "2026-11-30",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdb0gcd",
+      "datum": "2026-12-07",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdvtw0r",
+      "datum": "2026-12-14",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdjf03g",
+      "datum": "2026-12-21",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdrihxo",
+      "datum": "2026-12-28",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdmpj5d",
+      "datum": "2027-01-04",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdx3926",
+      "datum": "2027-01-11",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdlqtlt",
+      "datum": "2027-01-18",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdroki0",
+      "datum": "2027-01-25",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdckzm9",
+      "datum": "2027-02-01",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdk7csm",
+      "datum": "2027-02-08",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwd5vq0b",
+      "datum": "2027-02-15",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwd513ro",
+      "datum": "2027-02-22",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdh3jhn",
+      "datum": "2027-03-01",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
+    },
+    {
+      "platzId": "p4",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsi9qwdioxox",
+      "datum": "2027-03-08",
+      "serieId": "smtsi9q4d7rec1",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:07"
     }
   ],
   "zugang": {
@@ -4640,6 +5127,29 @@
         "typ": "Training",
         "mannschaft": "G-Jugend",
         "kabinen": [],
+        "notiz": ""
+      }
+    },
+    {
+      "id": "smtsi9q4d7rec1",
+      "periode": "woechentlich",
+      "wochentage": [
+        0
+      ],
+      "start": "2026-09-07",
+      "ende": null,
+      "horizont": "2027-03-08",
+      "status": "genehmigt",
+      "erstelltVon": "leitung",
+      "vorlage": {
+        "platzId": "p4",
+        "von": "16:30",
+        "bis": "18:00",
+        "typ": "Training",
+        "mannschaft": "F-Jugend",
+        "kabinen": [
+          "Jugend 2"
+        ],
         "notiz": ""
       }
     }
