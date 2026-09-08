@@ -13558,6 +13558,25 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T10:57",
       "konflikt": false
+    },
+    {
+      "id": "bmtsk4gi4jzyzy",
+      "platzId": "p2",
+      "datum": "2026-09-13",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Training",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:59",
+      "konflikt": false
     }
   ],
   "zugang": {
