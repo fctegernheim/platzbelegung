@@ -203,21 +203,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk80pvyvzrc6",
-      "platzId": "p1",
-      "datum": "2027-05-23",
-      "von": "14:00",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "2. Mannschaft",
-      "notiz": "SC Regensburg II",
-      "kabinen": [
-        "Heim 2"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk8ns8gqol4o",
       "platzId": "p1",
       "datum": "2026-07-20",
@@ -13827,6 +13812,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T12:37",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk80pvyvzrc6",
+      "platzId": "p1",
+      "datum": "2027-05-23",
+      "von": "15:00",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "2. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "SC Regensburg II",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T12:39",
       "konflikt": false
     }
   ],
