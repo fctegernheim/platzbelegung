@@ -4391,21 +4391,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtrjijr8c38fb",
-      "platzId": "p4",
-      "datum": "2026-09-09",
-      "von": "17:00",
-      "bis": "18:30",
-      "typ": "Training",
-      "mannschaft": "E-Jugend 2",
-      "kabinen": [],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:03"
-    },
-    {
       "id": "bmtrjuzot8zqbw",
       "platzId": "p4",
       "datum": "2026-09-17",
