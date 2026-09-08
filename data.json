@@ -13633,6 +13633,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T11:23",
       "konflikt": false
+    },
+    {
+      "id": "bmtsl2jalxhus2",
+      "platzId": "p2",
+      "datum": "2026-11-13",
+      "von": "18:30",
+      "bis": "20:30",
+      "typ": "Spiel",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Heim 2",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "Jahn Regensburg Futal",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:25",
+      "konflikt": false
     }
   ],
   "zugang": {
