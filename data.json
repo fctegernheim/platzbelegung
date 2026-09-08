@@ -368,21 +368,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk7w65jezqii",
-      "platzId": "p1",
-      "datum": "2027-04-11",
-      "von": "14:00",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "2. Mannschaft",
-      "notiz": "SV Obertraubling II",
-      "kabinen": [
-        "Heim 2"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk7xmyzi2myp",
       "platzId": "p1",
       "datum": "2027-04-25",
@@ -13693,6 +13678,26 @@
         "Schiedsrichter"
       ],
       "notiz": "1. FC Bad Kötzting",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:31",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk7w65jezqii",
+      "platzId": "p1",
+      "datum": "2027-04-11",
+      "von": "14:00",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "2. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "SV Obertraubling II",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
