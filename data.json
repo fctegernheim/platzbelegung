@@ -4417,24 +4417,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtsg1rxby94cd",
-      "platzId": "p4",
-      "datum": "2026-09-10",
-      "von": "16:30",
-      "bis": "17:15",
-      "typ": "Training",
-      "mannschaft": "G-Jugend",
-      "kabinen": [
-        "Jugend 1"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-08T10:08",
-      "konflikt": true
-    },
-    {
       "platzId": "p4",
       "von": "16:30",
       "bis": "18:00",
