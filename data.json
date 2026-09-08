@@ -9258,6 +9258,500 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T10:28"
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gcm4blv",
+      "datum": "2026-09-09",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc4wx5e",
+      "datum": "2026-09-16",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gcuan3n",
+      "datum": "2026-09-23",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc5wrr8",
+      "datum": "2026-09-30",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gcg9mhm",
+      "datum": "2026-10-07",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc81udh",
+      "datum": "2026-10-14",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gcrup0y",
+      "datum": "2026-10-21",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc0bb21",
+      "datum": "2026-10-28",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gckz78f",
+      "datum": "2026-11-04",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc1bfjo",
+      "datum": "2026-11-11",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc6yct1",
+      "datum": "2026-11-18",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gcfrzjc",
+      "datum": "2026-11-25",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc738pa",
+      "datum": "2026-12-02",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gcbih8w",
+      "datum": "2026-12-09",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc4jkov",
+      "datum": "2026-12-16",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gct5fij",
+      "datum": "2026-12-23",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc7mu3v",
+      "datum": "2026-12-30",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc1weih",
+      "datum": "2027-01-06",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gcoc2ev",
+      "datum": "2027-01-13",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gcznxp8",
+      "datum": "2027-01-20",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gcsv9ls",
+      "datum": "2027-01-27",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc6ve0q",
+      "datum": "2027-02-03",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gcxl60n",
+      "datum": "2027-02-10",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc7whkq",
+      "datum": "2027-02-17",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gc5ku9f",
+      "datum": "2027-02-24",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
+    },
+    {
+      "platzId": "p4",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "id": "bmtsj27gdub0jx",
+      "datum": "2027-03-03",
+      "serieId": "smtsj2667e51dt",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:29",
+      "konflikt": true
     }
   ],
   "zugang": {
@@ -9643,6 +10137,29 @@
         "typ": "Training",
         "mannschaft": "F-Jugend",
         "kabinen": [],
+        "notiz": ""
+      }
+    },
+    {
+      "id": "smtsj2667e51dt",
+      "periode": "woechentlich",
+      "wochentage": [
+        2
+      ],
+      "start": "2026-09-09",
+      "ende": null,
+      "horizont": "2027-03-08",
+      "status": "genehmigt",
+      "erstelltVon": "leitung",
+      "vorlage": {
+        "platzId": "p4",
+        "von": "17:00",
+        "bis": "18:30",
+        "typ": "Training",
+        "mannschaft": "E-Jugend 2",
+        "kabinen": [
+          "Jugend 2"
+        ],
         "notiz": ""
       }
     }
