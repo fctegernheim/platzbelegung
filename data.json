@@ -771,21 +771,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmtlhwabw8px1x",
-      "platzId": "p4",
-      "datum": "2026-09-09",
-      "von": "19:00",
-      "bis": "20:30",
-      "typ": "Training",
-      "mannschaft": "Alte Liga",
-      "notiz": "",
-      "kabinen": [
-        "Gast 2"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmtlhxshkwcnan",
       "platzId": "p2",
       "datum": "2026-09-03",
