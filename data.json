@@ -12602,26 +12602,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
-      "kabinen": [
-        "Heim 2"
-      ],
-      "notiz": "",
-      "id": "bmtsji225p3pzc",
-      "datum": "2026-09-10",
-      "serieId": "smtsji1h0leljf",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
-      "konflikt": true
-    },
-    {
-      "platzId": "p2",
-      "von": "19:00",
-      "bis": "20:30",
-      "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12632,7 +12613,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12640,7 +12621,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12651,7 +12632,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12659,7 +12640,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12670,7 +12651,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12678,7 +12659,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12689,7 +12670,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12697,7 +12678,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12708,7 +12689,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12716,7 +12697,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12727,7 +12708,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12735,7 +12716,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12746,7 +12727,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12754,7 +12735,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12765,7 +12746,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12773,7 +12754,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12784,7 +12765,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12792,7 +12773,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12803,7 +12784,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12811,7 +12792,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12822,7 +12803,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12830,7 +12811,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12841,7 +12822,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12849,7 +12830,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12860,7 +12841,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12868,7 +12849,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12879,7 +12860,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12887,7 +12868,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12898,7 +12879,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12906,7 +12887,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12917,7 +12898,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12925,7 +12906,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12936,7 +12917,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12944,7 +12925,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12955,7 +12936,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12963,7 +12944,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12974,7 +12955,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -12982,7 +12963,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -12993,7 +12974,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -13001,7 +12982,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -13012,7 +12993,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -13020,7 +13001,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -13031,7 +13012,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -13039,7 +13020,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -13050,7 +13031,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -13058,7 +13039,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -13069,7 +13050,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
       "konflikt": true
     },
     {
@@ -13077,7 +13058,7 @@
       "von": "19:00",
       "bis": "20:30",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "2. Mannschaft",
       "kabinen": [
         "Heim 2"
       ],
@@ -13088,7 +13069,26 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:41",
+      "geaendertAm": "2026-09-08T10:42",
+      "konflikt": true
+    },
+    {
+      "id": "bmtsji225p3pzc",
+      "platzId": "p2",
+      "datum": "2026-09-10",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "2. Mannschaft",
+      "kabinen": [
+        "Heim 2"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:42",
+      "serieId": "smtsji1h0leljf",
       "konflikt": true
     }
   ],
@@ -13653,7 +13653,7 @@
         "von": "19:00",
         "bis": "20:30",
         "typ": "Training",
-        "mannschaft": "1. Mannschaft",
+        "mannschaft": "2. Mannschaft",
         "kabinen": [
           "Heim 2"
         ],
