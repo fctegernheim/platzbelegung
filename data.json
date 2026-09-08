@@ -13794,6 +13794,24 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T12:56",
       "konflikt": true
+    },
+    {
+      "id": "bmtsok8da64qem",
+      "platzId": "p1",
+      "datum": "2026-09-08",
+      "von": "16:00",
+      "bis": "17:30",
+      "typ": "Training",
+      "mannschaft": "TESTMANNSCHAFT",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-08T13:03",
+      "konflikt": false
     }
   ],
   "zugang": {
