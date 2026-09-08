@@ -3968,23 +3968,7 @@
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
-      "typ": "Training",
-      "mannschaft": "G-Jugend",
-      "kabinen": [],
-      "notiz": "",
-      "id": "bmtrjj9z3jzmrb",
-      "datum": "2026-09-08",
-      "serieId": "smtrjj97pooiu8",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
-    },
-    {
-      "platzId": "p4",
-      "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -3995,12 +3979,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4011,12 +3996,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4027,12 +4013,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4043,12 +4030,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4059,12 +4047,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4075,12 +4064,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4091,12 +4081,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4107,12 +4098,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4123,12 +4115,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4139,12 +4132,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4155,12 +4149,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4171,12 +4166,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4187,12 +4183,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4203,12 +4200,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4219,12 +4217,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4235,12 +4234,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4251,12 +4251,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4267,12 +4268,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4283,12 +4285,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4299,12 +4302,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4315,12 +4319,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4331,12 +4336,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4347,12 +4353,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4363,12 +4370,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "platzId": "p4",
       "von": "16:30",
-      "bis": "18:00",
+      "bis": "17:45",
       "typ": "Training",
       "mannschaft": "G-Jugend",
       "kabinen": [],
@@ -4379,7 +4387,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
+      "geaendertAm": "2026-09-08T10:26",
+      "konflikt": false
     },
     {
       "id": "bmtrjk8klkw1bi",
@@ -8847,6 +8856,23 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T10:24",
       "konflikt": true
+    },
+    {
+      "id": "bmtrjj9z3jzmrb",
+      "platzId": "p4",
+      "datum": "2026-09-08",
+      "von": "16:30",
+      "bis": "17:45",
+      "typ": "Training",
+      "mannschaft": "G-Jugend",
+      "kabinen": [],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-08T10:26",
+      "serieId": "smtrjj97pooiu8",
+      "konflikt": false
     }
   ],
   "zugang": {
@@ -9004,7 +9030,7 @@
       "vorlage": {
         "platzId": "p4",
         "von": "16:30",
-        "bis": "18:00",
+        "bis": "17:45",
         "typ": "Training",
         "mannschaft": "G-Jugend",
         "kabinen": [],
