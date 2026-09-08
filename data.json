@@ -11626,26 +11626,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
-      "kabinen": [
-        "Gast 1"
-      ],
-      "notiz": "",
-      "id": "bmtsjfi1lxnvcn",
-      "datum": "2026-09-10",
-      "serieId": "smtsjfh9m376si",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
-      "konflikt": true
-    },
-    {
-      "platzId": "p2",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11656,7 +11637,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11664,7 +11645,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11675,7 +11656,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11683,7 +11664,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11694,7 +11675,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11702,7 +11683,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11713,7 +11694,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11721,7 +11702,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11732,7 +11713,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11740,7 +11721,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11751,7 +11732,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11759,7 +11740,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11770,7 +11751,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11778,7 +11759,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11789,7 +11770,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11797,7 +11778,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11808,7 +11789,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11816,7 +11797,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11827,7 +11808,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11835,7 +11816,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11846,7 +11827,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11854,7 +11835,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11865,7 +11846,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11873,7 +11854,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11884,7 +11865,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11892,7 +11873,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11903,7 +11884,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11911,7 +11892,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11922,7 +11903,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11930,7 +11911,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11941,7 +11922,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11949,7 +11930,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11960,7 +11941,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11968,7 +11949,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11979,7 +11960,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -11987,7 +11968,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -11998,7 +11979,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -12006,7 +11987,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -12017,7 +11998,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -12025,7 +12006,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -12036,7 +12017,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -12044,7 +12025,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -12055,7 +12036,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -12063,7 +12044,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -12074,7 +12055,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -12082,7 +12063,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -12093,7 +12074,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
       "konflikt": true
     },
     {
@@ -12101,7 +12082,7 @@
       "von": "17:30",
       "bis": "19:00",
       "typ": "Training",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Gast 1"
       ],
@@ -12112,7 +12093,26 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:39",
+      "geaendertAm": "2026-09-08T10:40",
+      "konflikt": true
+    },
+    {
+      "id": "bmtsjfi1lxnvcn",
+      "platzId": "p2",
+      "datum": "2026-09-10",
+      "von": "17:30",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:40",
+      "serieId": "smtsjfh9m376si",
       "konflikt": true
     }
   ],
@@ -12631,7 +12631,7 @@
         "von": "17:30",
         "bis": "19:00",
         "typ": "Training",
-        "mannschaft": "1. Mannschaft",
+        "mannschaft": "B-Jugend (U 17)",
         "kabinen": [
           "Gast 1"
         ],
