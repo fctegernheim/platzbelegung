@@ -13608,7 +13608,7 @@
       "datum": "2026-10-09",
       "von": "18:30",
       "bis": "20:30",
-      "typ": "Training",
+      "typ": "Spiel",
       "mannschaft": "A-Jugend (U 19)",
       "kabinen": [
         "Heim 2",
@@ -13619,7 +13619,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T11:19",
+      "geaendertAm": "2026-09-08T11:20",
       "konflikt": false
     }
   ],
