@@ -13678,6 +13678,26 @@
       "geaendertAm": "2026-09-08T11:29",
       "serieId": "smtr8xi8yt1hqr",
       "konflikt": true
+    },
+    {
+      "id": "bmtsl9qiq3s8zl",
+      "platzId": "p1",
+      "datum": "2027-04-11",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:31",
+      "konflikt": false
     }
   ],
   "zugang": {
