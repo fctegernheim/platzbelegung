@@ -13833,24 +13833,6 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T12:39",
       "konflikt": false
-    },
-    {
-      "id": "bmtsnv8g57hdaq",
-      "platzId": "p1",
-      "datum": "2026-09-08",
-      "von": "18:00",
-      "bis": "19:30",
-      "typ": "Spiel",
-      "mannschaft": "Fremdvergabe / Gast",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "notiz": "",
-      "status": "abgelehnt",
-      "grund": "gesperrt",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-08T12:44",
-      "konflikt": true
     }
   ],
   "zugang": {
