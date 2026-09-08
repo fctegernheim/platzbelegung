@@ -4466,23 +4466,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtrjfk8ukrsku",
-      "platzId": "p4",
-      "datum": "2026-09-08",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "D-Jugend",
-      "kabinen": [],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-08T07:06",
-      "serieId": "smtrjfjioia3rl",
-      "konflikt": true
-    },
-    {
       "id": "bmtsg1rxby94cd",
       "platzId": "p4",
       "datum": "2026-09-10",
