@@ -143,21 +143,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk71btq1sfyz",
-      "platzId": "p1",
-      "datum": "2027-03-13",
-      "von": "12:30",
-      "bis": "16:00",
-      "typ": "Spiel",
-      "mannschaft": "1. Mannschaft",
-      "notiz": "SV Wenzenbach",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk787zlr9wq5",
       "platzId": "p1",
       "datum": "2027-05-15",
@@ -13803,6 +13788,26 @@
         "Gast 2"
       ],
       "notiz": "1. FC 1911 Passau",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T12:04",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk71btq1sfyz",
+      "platzId": "p1",
+      "datum": "2027-03-13",
+      "von": "12:30",
+      "bis": "16:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Gast 2"
+      ],
+      "notiz": "SV Wenzenbach",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
