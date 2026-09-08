@@ -203,21 +203,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk760yw2hi76",
-      "platzId": "p1",
-      "datum": "2027-04-24",
-      "von": "13:30",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "1. Mannschaft",
-      "notiz": "SV Schwandorf-Ettmannsdorf",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk777ptauru3",
       "platzId": "p1",
       "datum": "2027-05-08",
@@ -13723,6 +13708,26 @@
         "Schiedsrichter"
       ],
       "notiz": "TSV Gareth-Lappersdorf 2",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:34",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk760yw2hi76",
+      "platzId": "p1",
+      "datum": "2027-04-24",
+      "von": "13:30",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Gast 2"
+      ],
+      "notiz": "SV Schwandorf-Ettmannsdorf",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
