@@ -13470,26 +13470,6 @@
       "konflikt": false
     },
     {
-      "id": "bmrk7w65jezqii",
-      "platzId": "p1",
-      "datum": "2027-04-11",
-      "von": "14:00",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "2. Mannschaft",
-      "kabinen": [
-        "Heim 2",
-        "Gast 2",
-        "Schiedsrichter"
-      ],
-      "notiz": "SV Obertraubling II",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T11:31",
-      "konflikt": false
-    },
-    {
       "id": "bmrk74p3v7tcmr",
       "platzId": "p1",
       "datum": "2027-04-10",
@@ -13827,6 +13807,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T12:15",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk7w65jezqii",
+      "platzId": "p1",
+      "datum": "2027-04-11",
+      "von": "15:00",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "2. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "SV Obertraubling II",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T12:37",
       "konflikt": false
     }
   ],
