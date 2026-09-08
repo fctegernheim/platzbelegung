@@ -4466,7 +4466,7 @@
     {
       "id": "bmtsg1rxby94cd",
       "platzId": "p4",
-      "datum": "2026-09-08",
+      "datum": "2026-09-10",
       "von": "16:30",
       "bis": "17:15",
       "typ": "Training",
@@ -4478,7 +4478,7 @@
       "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-08T09:05",
+      "geaendertAm": "2026-09-08T09:06",
       "konflikt": true
     }
   ],
