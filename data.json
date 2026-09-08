@@ -13846,10 +13846,10 @@
         "Heim 1"
       ],
       "notiz": "",
-      "status": "angefragt",
-      "grund": "",
+      "status": "abgelehnt",
+      "grund": "gesperrt",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-08T12:43",
+      "geaendertAm": "2026-09-08T12:44",
       "konflikt": true
     }
   ],
