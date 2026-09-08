@@ -13833,6 +13833,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T12:39",
       "konflikt": false
+    },
+    {
+      "id": "bmtsoafxhbbjba",
+      "platzId": "p2",
+      "datum": "2026-09-27",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "Schwandorf",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T12:55",
+      "konflikt": true
     }
   ],
   "zugang": {
