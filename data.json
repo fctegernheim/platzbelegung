@@ -203,21 +203,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk74p3v7tcmr",
-      "platzId": "p1",
-      "datum": "2027-04-10",
-      "von": "13:30",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "1. Mannschaft",
-      "notiz": "SV Türk Gücü Straubing",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk760yw2hi76",
       "platzId": "p1",
       "datum": "2027-04-24",
@@ -13702,6 +13687,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T11:31",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk74p3v7tcmr",
+      "platzId": "p1",
+      "datum": "2027-04-10",
+      "von": "13:30",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Gast 2"
+      ],
+      "notiz": "SV Türk Gücü Straubing",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:32",
       "konflikt": false
     }
   ],
