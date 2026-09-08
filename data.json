@@ -278,21 +278,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk7mvg4bcw0r",
-      "platzId": "p1",
-      "datum": "2026-10-04",
-      "von": "14:00",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "2. Mannschaft",
-      "notiz": "SG Walhalla Regensburg",
-      "kabinen": [
-        "Heim 2"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk72zfgufoc2",
       "platzId": "p1",
       "datum": "2027-03-27",
@@ -13787,6 +13772,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T12:00",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk7mvg4bcw0r",
+      "platzId": "p1",
+      "datum": "2026-10-04",
+      "von": "14:00",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "2. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "SG Walhalla Regensburg",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T12:01",
       "konflikt": false
     }
   ],
