@@ -10221,9 +10221,7 @@
       "bis": "19:00",
       "typ": "Training",
       "mannschaft": "C-Jugend 2",
-      "kabinen": [
-        "Jugend 2"
-      ],
+      "kabinen": [],
       "notiz": "",
       "status": "genehmigt",
       "grund": "",
