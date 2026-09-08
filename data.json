@@ -143,21 +143,6 @@
       "erstelltVon": "leitung"
     },
     {
-      "id": "bmrk6x668ebote",
-      "platzId": "p1",
-      "datum": "2026-10-31",
-      "von": "12:30",
-      "bis": "16:00",
-      "typ": "Spiel",
-      "mannschaft": "1. Mannschaft",
-      "notiz": "TSV Bad Abbach",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "status": "genehmigt",
-      "erstelltVon": "leitung"
-    },
-    {
       "id": "bmrk700x4jr0iq",
       "platzId": "p1",
       "datum": "2026-11-28",
@@ -13797,6 +13782,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T12:01",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk6x668ebote",
+      "platzId": "p1",
+      "datum": "2026-10-31",
+      "von": "12:30",
+      "bis": "16:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Gast 2"
+      ],
+      "notiz": "TSV Bad Abbach",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T12:02",
       "konflikt": false
     }
   ],
