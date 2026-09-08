@@ -13841,7 +13841,7 @@
       "von": "11:00",
       "bis": "13:00",
       "typ": "Spiel",
-      "mannschaft": "1. Mannschaft",
+      "mannschaft": "B-Jugend (U 17)",
       "kabinen": [
         "Heim 2",
         "Gast 2",
@@ -13851,7 +13851,7 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T12:55",
+      "geaendertAm": "2026-09-08T12:56",
       "konflikt": true
     }
   ],
