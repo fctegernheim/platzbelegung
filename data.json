@@ -13090,6 +13090,475 @@
       "geaendertAm": "2026-09-08T10:42",
       "serieId": "smtsji1h0leljf",
       "konflikt": true
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r8184gg",
+      "datum": "2026-09-11",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r8m9l59",
+      "datum": "2026-09-18",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43",
+      "konflikt": true
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r8iwod1",
+      "datum": "2026-09-25",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r8053cl",
+      "datum": "2026-10-02",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r85h94n",
+      "datum": "2026-10-09",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r838khl",
+      "datum": "2026-10-16",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r8esich",
+      "datum": "2026-10-23",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r8sl5vm",
+      "datum": "2026-10-30",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9204ym",
+      "datum": "2026-11-06",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9oax2h",
+      "datum": "2026-11-13",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9hdtdb",
+      "datum": "2026-11-20",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9vr281",
+      "datum": "2026-11-27",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9tjnx6",
+      "datum": "2026-12-04",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9uv92b",
+      "datum": "2026-12-11",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r98op58",
+      "datum": "2026-12-18",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r936a9m",
+      "datum": "2026-12-25",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9pgxqn",
+      "datum": "2027-01-01",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9r8sci",
+      "datum": "2027-01-08",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9zoj8g",
+      "datum": "2027-01-15",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9m2cdu",
+      "datum": "2027-01-22",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9hhy29",
+      "datum": "2027-01-29",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9hlnxh",
+      "datum": "2027-02-05",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9ratgb",
+      "datum": "2027-02-12",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9j2mv2",
+      "datum": "2027-02-19",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9ineu9",
+      "datum": "2027-02-26",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
+    },
+    {
+      "platzId": "p2",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "id": "bmtsjk7r9f4z3o",
+      "datum": "2027-03-05",
+      "serieId": "smtsjk72yelmip",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T10:43"
     }
   ],
   "zugang": {
@@ -13656,6 +14125,29 @@
         "mannschaft": "2. Mannschaft",
         "kabinen": [
           "Heim 2"
+        ],
+        "notiz": ""
+      }
+    },
+    {
+      "id": "smtsjk72yelmip",
+      "periode": "woechentlich",
+      "wochentage": [
+        4
+      ],
+      "start": "2026-09-11",
+      "ende": null,
+      "horizont": "2027-03-08",
+      "status": "genehmigt",
+      "erstelltVon": "leitung",
+      "vorlage": {
+        "platzId": "p2",
+        "von": "17:00",
+        "bis": "19:00",
+        "typ": "Training",
+        "mannschaft": "A-Jugend (U 19)",
+        "kabinen": [
+          "Gast 1"
         ],
         "notiz": ""
       }
