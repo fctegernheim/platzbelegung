@@ -13601,6 +13601,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T11:18",
       "konflikt": false
+    },
+    {
+      "id": "bmtskv6makmckg",
+      "platzId": "p2",
+      "datum": "2026-10-09",
+      "von": "18:30",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Heim 2",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "JFG 3 Schlösser-Eck",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:19",
+      "konflikt": false
     }
   ],
   "zugang": {
