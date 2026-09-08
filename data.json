@@ -13685,14 +13685,14 @@
       "datum": "2027-04-11",
       "von": "11:00",
       "bis": "13:00",
-      "typ": "Training",
+      "typ": "Spiel",
       "mannschaft": "A-Jugend (U 19)",
       "kabinen": [
         "Heim 1",
         "Gast 1",
         "Schiedsrichter"
       ],
-      "notiz": "",
+      "notiz": "1. FC Bad Kötzting",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
