@@ -13581,26 +13581,6 @@
       "konflikt": true
     },
     {
-      "id": "bmtskqzyvslolx",
-      "platzId": "p1",
-      "datum": "2026-09-27",
-      "von": "11:00",
-      "bis": "13:00",
-      "typ": "Spiel",
-      "mannschaft": "A-Jugend (U 19)",
-      "kabinen": [
-        "Heim 1",
-        "Gast 1",
-        "Schiedsrichter"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T11:17",
-      "konflikt": false
-    },
-    {
       "id": "bmrk7lqc7b28og",
       "platzId": "p1",
       "datum": "2026-09-27",
@@ -13618,6 +13598,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T11:17",
+      "konflikt": false
+    },
+    {
+      "id": "bmtskqzyvslolx",
+      "platzId": "p1",
+      "datum": "2026-09-27",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Spiel",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "FC Amberg",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-08T11:18",
       "konflikt": false
     }
   ],
