@@ -13653,6 +13653,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T09:00",
       "konflikt": false
+    },
+    {
+      "id": "bmttvdusqt0tm3",
+      "platzId": "p2",
+      "datum": "2026-11-14",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Spiel",
+      "mannschaft": "C-Jugend 2",
+      "kabinen": [
+        "Schiedsrichter",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "TSV Gareth-Lappersdorf 3",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T09:02",
+      "konflikt": false
     }
   ],
   "zugang": {
