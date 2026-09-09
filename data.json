@@ -13789,14 +13789,14 @@
       "typ": "Spiel",
       "mannschaft": "E-Jugend",
       "kabinen": [
-        "Jugend 2",
-        "Jugend 3"
+        "Jugend 1",
+        "Jugend 2"
       ],
       "notiz": "SSV Brennberg",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T12:03",
+      "geaendertAm": "2026-09-09T12:04",
       "konflikt": true
     }
   ],
