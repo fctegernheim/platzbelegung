@@ -13592,6 +13592,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T08:54",
       "konflikt": false
+    },
+    {
+      "id": "bmttv7pwytf8hp",
+      "platzId": "p2",
+      "datum": "2026-10-03",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Spiel",
+      "mannschaft": "C-Jugend 2",
+      "kabinen": [
+        "Schiedsrichter",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "TSV Wacker 50 Neutraubling III",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:57",
+      "konflikt": false
     }
   ],
   "zugang": {
