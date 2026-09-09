@@ -9113,22 +9113,6 @@
       "geaendertAm": "2026-09-08T10:32"
     },
     {
-      "id": "bmtr8xiqxot1sx",
-      "platzId": "p3",
-      "datum": "2026-09-09",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "C-Jugend 2",
-      "kabinen": [],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:33",
-      "serieId": "smtr8xi8yt1hqr"
-    },
-    {
       "platzId": "p2",
       "von": "18:30",
       "bis": "20:00",
