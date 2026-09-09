@@ -13637,25 +13637,6 @@
       "konflikt": true
     },
     {
-      "id": "bmtsipkbz55nq2",
-      "platzId": "p2",
-      "datum": "2026-10-20",
-      "von": "19:00",
-      "bis": "20:30",
-      "typ": "Training",
-      "mannschaft": "1. Mannschaft",
-      "kabinen": [
-        "Heim 1"
-      ],
-      "notiz": "",
-      "status": "angefragt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T08:36",
-      "serieId": "smtsip2vjfge03",
-      "konflikt": true
-    },
-    {
       "id": "bmtsipx2tp3mnn",
       "platzId": "p2",
       "datum": "2026-10-20",
@@ -13806,6 +13787,25 @@
       "geaendertAm": "2026-09-09T08:46",
       "serieId": "smtrjfjioia3rl",
       "konflikt": true
+    },
+    {
+      "id": "bmtsipkbz55nq2",
+      "platzId": "p3",
+      "datum": "2026-10-20",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1"
+      ],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:46",
+      "serieId": "smtsip2vjfge03",
+      "konflikt": false
     }
   ],
   "zugang": {
