@@ -13195,25 +13195,6 @@
       "geaendertAm": "2026-09-09T08:39"
     },
     {
-      "id": "bmttumoj4tectz",
-      "platzId": "p2",
-      "datum": "2026-11-04",
-      "von": "18:30",
-      "bis": "20:30",
-      "typ": "Spiel",
-      "mannschaft": "B-Jugend 2",
-      "kabinen": [
-        "Heim 2",
-        "Gast 1",
-        "Schiedsrichter"
-      ],
-      "notiz": "TSV 1873 Wörth/Donau",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T08:41"
-    },
-    {
       "id": "bmtr8xiqyr73jk",
       "platzId": "p3",
       "datum": "2026-11-04",
@@ -13718,6 +13699,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T11:49",
+      "konflikt": false
+    },
+    {
+      "id": "bmttumoj4tectz",
+      "platzId": "p2",
+      "datum": "2026-11-04",
+      "von": "18:30",
+      "bis": "20:30",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend 2",
+      "kabinen": [
+        "Heim 2",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "TSV 1873 Wörth/Donau",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T11:50",
       "konflikt": false
     }
   ],
