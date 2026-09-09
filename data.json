@@ -13641,6 +13641,22 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T09:07",
       "serieId": "smtr8xi8yt1hqr"
+    },
+    {
+      "id": "bmttxvnlliewfh",
+      "platzId": "p2",
+      "datum": "2026-09-11",
+      "von": "13:00",
+      "bis": "14:30",
+      "typ": "Training",
+      "mannschaft": "C-Jugend 2",
+      "kabinen": [],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-09T10:12",
+      "konflikt": false
     }
   ],
   "zugang": {
