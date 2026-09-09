@@ -13511,6 +13511,30 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-08T14:00",
       "konflikt": true
+    },
+    {
+      "id": "bmttsc8utnlkq7",
+      "platzId": "p1",
+      "datum": "2026-09-12",
+      "von": "08:00",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "Biersack Cup",
+      "kabinen": [
+        "Heim 1",
+        "Heim 2",
+        "Gast 1",
+        "Gast 2",
+        "Jugend 1",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T07:36",
+      "konflikt": true
     }
   ],
   "zugang": {
