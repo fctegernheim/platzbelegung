@@ -13658,6 +13658,26 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-09T11:36",
       "konflikt": true
+    },
+    {
+      "id": "bmtu1633zj3p5k",
+      "platzId": "p2",
+      "datum": "2026-09-26",
+      "von": "14:45",
+      "bis": "16:45",
+      "typ": "Spiel",
+      "mannschaft": "D-Jugend",
+      "kabinen": [
+        "Schiedsrichter",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "JFG 3 Schlösser-Eck",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T11:44",
+      "konflikt": false
     }
   ],
   "zugang": {
