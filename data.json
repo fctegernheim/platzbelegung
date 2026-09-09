@@ -12824,26 +12824,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtskv6makmckg",
-      "platzId": "p2",
-      "datum": "2026-10-09",
-      "von": "18:30",
-      "bis": "20:30",
-      "typ": "Spiel",
-      "mannschaft": "A-Jugend (U 19)",
-      "kabinen": [
-        "Heim 2",
-        "Gast 1",
-        "Schiedsrichter"
-      ],
-      "notiz": "JFG 3 Schlösser-Eck",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T11:20",
-      "konflikt": false
-    },
-    {
       "id": "bmrk6qcldflu0f",
       "platzId": "p1",
       "datum": "2026-10-24",
@@ -13555,6 +13535,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T07:43",
       "konflikt": true
+    },
+    {
+      "id": "bmtskv6makmckg",
+      "platzId": "p2",
+      "datum": "2026-10-09",
+      "von": "18:30",
+      "bis": "20:30",
+      "typ": "Spiel",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Heim 2",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "JFG 3 Schlösser-Eck",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T07:44",
+      "konflikt": false
     }
   ],
   "zugang": {
