@@ -13475,26 +13475,6 @@
       "konflikt": true
     },
     {
-      "id": "bmtsqkhgc91gbh",
-      "platzId": "p2",
-      "datum": "2026-09-30",
-      "von": "19:00",
-      "bis": "21:00",
-      "typ": "Spiel",
-      "mannschaft": "B-Jugend (U 17)",
-      "kabinen": [
-        "Heim 2",
-        "Gast 2",
-        "Schiedsrichter"
-      ],
-      "notiz": "JFG Brunnenlöwen",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T14:00",
-      "konflikt": true
-    },
-    {
       "id": "bmttsc8utnlkq7",
       "platzId": "p1",
       "datum": "2026-09-12",
@@ -13555,6 +13535,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T07:38"
+    },
+    {
+      "id": "bmtsqkhgc91gbh",
+      "platzId": "p2",
+      "datum": "2026-09-30",
+      "von": "19:00",
+      "bis": "21:00",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "JFG Brunnenlöwen",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T07:43",
+      "konflikt": true
     }
   ],
   "zugang": {
