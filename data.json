@@ -13726,23 +13726,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtrjfk8waihhl",
-      "platzId": "p2",
-      "datum": "2026-10-20",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "D-Jugend",
-      "kabinen": [],
-      "notiz": "",
-      "status": "angefragt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-09T08:32",
-      "serieId": "smtrjfjioia3rl",
-      "konflikt": true
-    },
-    {
       "id": "bmtsilik29cgzw",
       "platzId": "p2",
       "datum": "2026-10-20",
@@ -13779,6 +13762,25 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T08:33",
+      "konflikt": true
+    },
+    {
+      "id": "bmtrjfk8waihhl",
+      "platzId": "p2",
+      "datum": "2026-10-20",
+      "von": "17:30",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "D-Jugend",
+      "kabinen": [
+        "Jugend 3"
+      ],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-09T08:36",
+      "serieId": "smtrjfjioia3rl",
       "konflikt": true
     }
   ],
