@@ -13572,6 +13572,26 @@
       "geaendertAm": "2026-09-09T08:51",
       "serieId": "smtr8xi8yt1hqr",
       "konflikt": true
+    },
+    {
+      "id": "bmttv3td2dxx8v",
+      "platzId": "p2",
+      "datum": "2026-09-26",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Spiel",
+      "mannschaft": "C-Jugend 2",
+      "kabinen": [
+        "Heim 2",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "SV Obertraubling",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:54",
+      "konflikt": false
     }
   ],
   "zugang": {
