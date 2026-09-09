@@ -12895,24 +12895,6 @@
       "geaendertAm": "2026-09-09T07:37"
     },
     {
-      "id": "bmtsk2kxscozyo",
-      "platzId": "p2",
-      "datum": "2026-09-12",
-      "von": "09:00",
-      "bis": "14:00",
-      "typ": "Training",
-      "mannschaft": "B-Jugend (U 17)",
-      "kabinen": [
-        "Heim 2"
-      ],
-      "notiz": "Trainingstag",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T07:37",
-      "konflikt": false
-    },
-    {
       "id": "bmttsec2dr07z4",
       "platzId": "p4",
       "datum": "2026-09-12",
