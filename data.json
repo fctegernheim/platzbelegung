@@ -13720,6 +13720,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T11:50",
       "konflikt": false
+    },
+    {
+      "id": "bmtu1ffdccpas9",
+      "platzId": "p2",
+      "datum": "2026-11-04",
+      "von": "18:00",
+      "bis": "20:00",
+      "typ": "Training",
+      "mannschaft": "D-Jugend",
+      "kabinen": [
+        "Schiedsrichter",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "ASCV Burglengenfeld 2",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T11:51",
+      "konflikt": true
     }
   ],
   "zugang": {
