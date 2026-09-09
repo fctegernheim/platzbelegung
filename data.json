@@ -13778,6 +13778,24 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T12:05",
       "konflikt": false
+    },
+    {
+      "id": "bmtubbjphge7j0",
+      "platzId": "p2",
+      "datum": "2026-09-10",
+      "von": "17:30",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "Löschung Rückgängig wg. Spielabsage",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-09T16:28",
+      "konflikt": true
     }
   ],
   "zugang": {
