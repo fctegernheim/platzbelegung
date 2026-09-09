@@ -6426,24 +6426,6 @@
         "Jugend 2"
       ],
       "notiz": "",
-      "id": "bmtsinln44bkra",
-      "datum": "2026-10-20",
-      "serieId": "smtsinjz1bwydk",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:18"
-    },
-    {
-      "platzId": "p2",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "B-Jugend 2",
-      "kabinen": [
-        "Jugend 2"
-      ],
-      "notiz": "",
       "id": "bmtsinln5saxwb",
       "datum": "2026-10-27",
       "serieId": "smtsinjz1bwydk",
