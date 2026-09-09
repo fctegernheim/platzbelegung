@@ -13744,26 +13744,6 @@
       "konflikt": false
     },
     {
-      "id": "bmttubn9waa6hh",
-      "platzId": "p2",
-      "datum": "2026-10-20",
-      "von": "18:30",
-      "bis": "20:30",
-      "typ": "Training",
-      "mannschaft": "B-Jugend (U 17)",
-      "kabinen": [
-        "Gast 1",
-        "Gast 2",
-        "Schiedsrichter"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T08:32",
-      "konflikt": true
-    },
-    {
       "id": "bmtrjfk8waihhl",
       "platzId": "p2",
       "datum": "2026-10-20",
@@ -13797,6 +13777,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T08:32",
       "serieId": "smtsilguf5edqh",
+      "konflikt": true
+    },
+    {
+      "id": "bmttubn9waa6hh",
+      "platzId": "p2",
+      "datum": "2026-10-20",
+      "von": "18:30",
+      "bis": "20:30",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend 2",
+      "kabinen": [
+        "Gast 1",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:33",
       "konflikt": true
     }
   ],
