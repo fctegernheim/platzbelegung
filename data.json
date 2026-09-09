@@ -11912,24 +11912,6 @@
         "Gast 1"
       ],
       "notiz": "",
-      "id": "bmtsjk7r8esich",
-      "datum": "2026-10-23",
-      "serieId": "smtsjk72yelmip",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:43"
-    },
-    {
-      "platzId": "p2",
-      "von": "17:00",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "A-Jugend (U 19)",
-      "kabinen": [
-        "Gast 1"
-      ],
-      "notiz": "",
       "id": "bmtsjk7r9204ym",
       "datum": "2026-11-06",
       "serieId": "smtsjk72yelmip",
@@ -13698,6 +13680,25 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T11:46",
       "konflikt": true
+    },
+    {
+      "id": "bmtsjk7r8esich",
+      "platzId": "p3",
+      "datum": "2026-10-23",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T11:49",
+      "serieId": "smtsjk72yelmip",
+      "konflikt": false
     }
   ],
   "zugang": {
