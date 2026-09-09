@@ -13733,25 +13733,6 @@
       "konflikt": true
     },
     {
-      "id": "bmtr8xiqyr73jk",
-      "platzId": "p2",
-      "datum": "2026-11-04",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "C-Jugend 2",
-      "kabinen": [
-        "Jugend 2"
-      ],
-      "notiz": "",
-      "status": "angefragt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T08:40",
-      "serieId": "smtr8xi8yt1hqr",
-      "konflikt": true
-    },
-    {
       "id": "bmtsj6fmmfhxea",
       "platzId": "p2",
       "datum": "2026-11-04",
@@ -13807,6 +13788,25 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T08:41",
+      "konflikt": true
+    },
+    {
+      "id": "bmtr8xiqyr73jk",
+      "platzId": "p3",
+      "datum": "2026-11-04",
+      "von": "17:30",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "C-Jugend 2",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:42",
+      "serieId": "smtr8xi8yt1hqr",
       "konflikt": true
     }
   ],
