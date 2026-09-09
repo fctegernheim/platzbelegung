@@ -13798,6 +13798,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T12:04",
       "konflikt": true
+    },
+    {
+      "id": "bmtu1xiu28xi8w",
+      "platzId": "p4",
+      "datum": "2026-10-24",
+      "von": "11:00",
+      "bis": "12:30",
+      "typ": "Spiel",
+      "mannschaft": "E-Jugend",
+      "kabinen": [
+        "Schiedsrichter",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "SV Donaustauf",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T12:05",
+      "konflikt": false
     }
   ],
   "zugang": {
