@@ -13597,26 +13597,6 @@
       "konflikt": false
     },
     {
-      "id": "bmttt3njsadrl5",
-      "platzId": "p2",
-      "datum": "2026-11-08",
-      "von": "11:00",
-      "bis": "13:00",
-      "typ": "Spiel",
-      "mannschaft": "B-Jugend (U 17)",
-      "kabinen": [
-        "Heim 2",
-        "Gast 2",
-        "Schiedsrichter"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T07:58",
-      "konflikt": false
-    },
-    {
       "id": "bmttt4yiziv7gf",
       "platzId": "p2",
       "datum": "2027-04-04",
@@ -13675,6 +13655,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T08:02",
       "konflikt": true
+    },
+    {
+      "id": "bmttt3njsadrl5",
+      "platzId": "p2",
+      "datum": "2026-11-08",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "SV Wenzenbach",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:03",
+      "konflikt": false
     }
   ],
   "zugang": {
