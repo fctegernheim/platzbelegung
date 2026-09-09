@@ -13732,25 +13732,6 @@
       "konflikt": true
     },
     {
-      "id": "bmtsilik29cgzw",
-      "platzId": "p3",
-      "datum": "2026-10-20",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "B-Jugend (U 17)",
-      "kabinen": [
-        "Gast 1"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T08:45",
-      "serieId": "smtsilguf5edqh",
-      "konflikt": true
-    },
-    {
       "id": "bmtrjfk8waihhl",
       "platzId": "p3",
       "datum": "2026-10-20",
@@ -13805,6 +13786,25 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T08:46",
       "serieId": "smtsipwm313g4n",
+      "konflikt": true
+    },
+    {
+      "id": "bmtsilik29cgzw",
+      "platzId": "p3",
+      "datum": "2026-10-20",
+      "von": "17:30",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:47",
+      "serieId": "smtsilguf5edqh",
       "konflikt": true
     }
   ],
