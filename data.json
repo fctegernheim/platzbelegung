@@ -13615,6 +13615,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T07:58",
       "konflikt": false
+    },
+    {
+      "id": "bmttt4yiziv7gf",
+      "platzId": "p2",
+      "datum": "2027-04-04",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Gast 1",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T07:59",
+      "konflikt": false
     }
   ],
   "zugang": {
