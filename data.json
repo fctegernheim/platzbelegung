@@ -13633,6 +13633,26 @@
       "geaendertAm": "2026-09-09T09:00",
       "serieId": "smtsjk72yelmip",
       "konflikt": false
+    },
+    {
+      "id": "bmttvcae20zxgd",
+      "platzId": "p2",
+      "datum": "2026-10-30",
+      "von": "18:30",
+      "bis": "20:30",
+      "typ": "Spiel",
+      "mannschaft": "C-Jugend 2",
+      "kabinen": [
+        "Schiedsrichter",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "Vorwald",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T09:00",
+      "konflikt": false
     }
   ],
   "zugang": {
