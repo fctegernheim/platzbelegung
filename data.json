@@ -12227,25 +12227,6 @@
       "geaendertAm": "2026-09-08T10:43"
     },
     {
-      "id": "bmtsk4gi4jzyzy",
-      "platzId": "p2",
-      "datum": "2026-09-13",
-      "von": "11:00",
-      "bis": "13:00",
-      "typ": "Spiel",
-      "mannschaft": "B-Jugend (U 17)",
-      "kabinen": [
-        "Gast 2",
-        "Schiedsrichter"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:59",
-      "konflikt": false
-    },
-    {
       "id": "bmtsk86m3gc3er",
       "platzId": "p2",
       "datum": "2026-09-14",
@@ -13656,6 +13637,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T11:18",
+      "konflikt": false
+    },
+    {
+      "id": "bmtsk4gi4jzyzy",
+      "platzId": "p2",
+      "datum": "2026-09-13",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Heim 1",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T11:19",
       "konflikt": false
     }
   ],
