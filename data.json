@@ -13760,6 +13760,25 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T11:53",
       "konflikt": true
+    },
+    {
+      "id": "bmtu1tsxxs5y8g",
+      "platzId": "p4",
+      "datum": "2026-09-19",
+      "von": "11:00",
+      "bis": "12:30",
+      "typ": "Spiel",
+      "mannschaft": "E-Jugend",
+      "kabinen": [
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "TSV Petenreuth-Hauzendorf",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T12:02",
+      "konflikt": false
     }
   ],
   "zugang": {
