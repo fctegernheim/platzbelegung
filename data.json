@@ -13699,6 +13699,26 @@
       "geaendertAm": "2026-09-09T11:49",
       "serieId": "smtsjk72yelmip",
       "konflikt": false
+    },
+    {
+      "id": "bmtu1dfxzks2ly",
+      "platzId": "p2",
+      "datum": "2026-10-23",
+      "von": "18:30",
+      "bis": "20:30",
+      "typ": "Spiel",
+      "mannschaft": "D-Jugend",
+      "kabinen": [
+        "Schiedsrichter",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "Freier TuS Regensburg",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T11:49",
+      "konflikt": false
     }
   ],
   "zugang": {
