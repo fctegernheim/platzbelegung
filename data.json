@@ -13715,6 +13715,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T08:08",
       "konflikt": false
+    },
+    {
+      "id": "bmttth9oohqnug",
+      "platzId": "p1",
+      "datum": "2027-06-20",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Gast 1",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "FC Amberg",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:08",
+      "konflikt": false
     }
   ],
   "zugang": {
