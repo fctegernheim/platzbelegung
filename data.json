@@ -13735,6 +13735,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T08:08",
       "konflikt": false
+    },
+    {
+      "id": "bmttu65lsnela7",
+      "platzId": "p2",
+      "datum": "2026-10-03",
+      "von": "14:00",
+      "bis": "16:00",
+      "typ": "Training",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 2",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:28",
+      "konflikt": true
     }
   ],
   "zugang": {
