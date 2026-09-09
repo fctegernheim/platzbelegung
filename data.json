@@ -13779,6 +13779,25 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T12:02",
       "konflikt": false
+    },
+    {
+      "id": "bmtu1v77ld8dhw",
+      "platzId": "p4",
+      "datum": "2026-10-03",
+      "von": "11:00",
+      "bis": "12:30",
+      "typ": "Spiel",
+      "mannschaft": "E-Jugend",
+      "kabinen": [
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "SSV Brennberg",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T12:03",
+      "konflikt": true
     }
   ],
   "zugang": {
