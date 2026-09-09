@@ -13718,25 +13718,6 @@
       "konflikt": false
     },
     {
-      "id": "bmrk6oype05v8w",
-      "platzId": "p1",
-      "datum": "2026-10-03",
-      "von": "13:30",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "1. Mannschaft",
-      "kabinen": [
-        "Heim 1",
-        "Gast 2"
-      ],
-      "notiz": "1. FC Bad Kötzting",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T08:28",
-      "konflikt": false
-    },
-    {
       "id": "bmttu65lsnela7",
       "platzId": "p2",
       "datum": "2026-10-03",
@@ -13754,6 +13735,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T08:28",
+      "konflikt": false
+    },
+    {
+      "id": "bmrk6oype05v8w",
+      "platzId": "p1",
+      "datum": "2026-10-03",
+      "von": "13:30",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "1. Mannschaft",
+      "kabinen": [
+        "Heim 1",
+        "Gast 2",
+        "Besprechungsraum"
+      ],
+      "notiz": "1. FC Bad Kötzting",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:30",
       "konflikt": false
     }
   ],
