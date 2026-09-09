@@ -13577,26 +13577,6 @@
       "konflikt": true
     },
     {
-      "id": "bmttt24dngm39s",
-      "platzId": "p1",
-      "datum": "2026-10-18",
-      "von": "11:00",
-      "bis": "12:00",
-      "typ": "Spiel",
-      "mannschaft": "B-Jugend (U 17)",
-      "kabinen": [
-        "Heim 2",
-        "Gast 2",
-        "Schiedsrichter"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T07:57",
-      "konflikt": false
-    },
-    {
       "id": "bmttt4yiziv7gf",
       "platzId": "p2",
       "datum": "2027-04-04",
@@ -13674,6 +13654,26 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T08:03",
+      "konflikt": false
+    },
+    {
+      "id": "bmttt24dngm39s",
+      "platzId": "p1",
+      "datum": "2026-10-18",
+      "von": "11:00",
+      "bis": "12:00",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "SV Trisching",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:04",
       "konflikt": false
     }
   ],
