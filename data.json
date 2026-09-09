@@ -13534,6 +13534,29 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T07:37",
       "konflikt": false
+    },
+    {
+      "id": "bmttsec2dr07z4",
+      "platzId": "p4",
+      "datum": "2026-09-12",
+      "von": "08:00",
+      "bis": "17:00",
+      "typ": "Training",
+      "mannschaft": "Biersack Cup",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Gast 2",
+        "Jugend 1",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T07:38",
+      "konflikt": true
     }
   ],
   "zugang": {
