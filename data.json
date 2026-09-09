@@ -13717,26 +13717,6 @@
       "konflikt": false
     },
     {
-      "id": "bmttu65lsnela7",
-      "platzId": "p2",
-      "datum": "2026-10-03",
-      "von": "14:00",
-      "bis": "16:00",
-      "typ": "Training",
-      "mannschaft": "1. Mannschaft",
-      "kabinen": [
-        "Heim 2",
-        "Gast 1",
-        "Schiedsrichter"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T08:28",
-      "konflikt": true
-    },
-    {
       "id": "bmrk6oype05v8w",
       "platzId": "p1",
       "datum": "2026-10-03",
@@ -13749,6 +13729,26 @@
         "Gast 2"
       ],
       "notiz": "1. FC Bad Kötzting",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:28",
+      "konflikt": false
+    },
+    {
+      "id": "bmttu65lsnela7",
+      "platzId": "p2",
+      "datum": "2026-10-03",
+      "von": "14:00",
+      "bis": "16:00",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend 2",
+      "kabinen": [
+        "Heim 2",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "1. JFG Donautal Bad Abbach",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
