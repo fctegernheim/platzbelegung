@@ -7326,24 +7326,6 @@
         "Heim 2"
       ],
       "notiz": "",
-      "id": "bmtsipx2tp3mnn",
-      "datum": "2026-10-20",
-      "serieId": "smtsipwm313g4n",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:19"
-    },
-    {
-      "platzId": "p2",
-      "von": "19:00",
-      "bis": "20:30",
-      "typ": "Training",
-      "mannschaft": "2. Mannschaft",
-      "kabinen": [
-        "Heim 2"
-      ],
-      "notiz": "",
       "id": "bmtsipx2t41ls7",
       "datum": "2026-10-27",
       "serieId": "smtsipwm313g4n",
@@ -13764,6 +13746,25 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T08:36",
       "serieId": "smtsip2vjfge03",
+      "konflikt": true
+    },
+    {
+      "id": "bmtsipx2tp3mnn",
+      "platzId": "p2",
+      "datum": "2026-10-20",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "2. Mannschaft",
+      "kabinen": [
+        "Heim 2"
+      ],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:37",
+      "serieId": "smtsipwm313g4n",
       "konflikt": true
     }
   ],
