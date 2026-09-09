@@ -13597,26 +13597,6 @@
       "konflikt": false
     },
     {
-      "id": "bmttt6g3hc82pk",
-      "platzId": "p2",
-      "datum": "2027-04-11",
-      "von": "11:00",
-      "bis": "13:00",
-      "typ": "Spiel",
-      "mannschaft": "B-Jugend (U 17)",
-      "kabinen": [
-        "Heim 2",
-        "Gast 2",
-        "Schiedsrichter"
-      ],
-      "notiz": "SV Raigering",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T08:02",
-      "konflikt": true
-    },
-    {
       "id": "bmttt3njsadrl5",
       "platzId": "p2",
       "datum": "2026-11-08",
@@ -13675,6 +13655,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-09T08:05",
       "konflikt": false
+    },
+    {
+      "id": "bmttt6g3hc82pk",
+      "platzId": "p2",
+      "datum": "2027-04-11",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "SV Raigering",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-09T08:05",
+      "konflikt": true
     }
   ],
   "zugang": {
