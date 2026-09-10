@@ -13493,26 +13493,6 @@
       "konflikt": false
     },
     {
-      "id": "bmttu9vyyeyd4v",
-      "platzId": "p2",
-      "datum": "2026-10-10",
-      "von": "14:00",
-      "bis": "16:00",
-      "typ": "Spiel",
-      "mannschaft": "B-Jugend 2",
-      "kabinen": [
-        "Gast 1",
-        "Gast 2",
-        "Schiedsrichter"
-      ],
-      "notiz": "TSV Wacker 50 Neutraubling II",
-      "status": "angefragt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T11:45",
-      "konflikt": false
-    },
-    {
       "id": "bmtu19gmd15hti",
       "platzId": "p2",
       "datum": "2026-10-10",
