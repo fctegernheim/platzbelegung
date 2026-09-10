@@ -13806,7 +13806,6 @@
       "typ": "Spiel",
       "mannschaft": "E-Jugend 2",
       "kabinen": [
-        "Schiedsrichter",
         "Jugend 2",
         "Jugend 3"
       ],
@@ -13815,7 +13814,7 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-10T07:38",
-      "konflikt": true
+      "konflikt": false
     }
   ],
   "zugang": {
