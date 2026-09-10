@@ -12295,26 +12295,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtskyh9rn4688",
-      "platzId": "p1",
-      "datum": "2026-10-25",
-      "von": "11:00",
-      "bis": "13:00",
-      "typ": "Spiel",
-      "mannschaft": "A-Jugend (U 19)",
-      "kabinen": [
-        "Heim 1",
-        "Gast 1",
-        "Schiedsrichter"
-      ],
-      "notiz": "SV Hahnbach",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T11:23",
-      "konflikt": false
-    },
-    {
       "id": "bmrk6yjeqcd6d0",
       "platzId": "p1",
       "datum": "2026-11-14",
@@ -13803,6 +13783,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-10T09:51",
       "konflikt": true
+    },
+    {
+      "id": "bmtskyh9rn4688",
+      "platzId": "p2",
+      "datum": "2026-10-25",
+      "von": "11:00",
+      "bis": "13:00",
+      "typ": "Spiel",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "SV Hahnbach",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-10T09:54",
+      "konflikt": false
     }
   ],
   "zugang": {
