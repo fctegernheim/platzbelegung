@@ -13007,25 +13007,6 @@
       "konflikt": false
     },
     {
-      "id": "bmttubn9waa6hh",
-      "platzId": "p2",
-      "datum": "2026-10-20",
-      "von": "18:30",
-      "bis": "20:30",
-      "typ": "Spiel",
-      "mannschaft": "B-Jugend 2",
-      "kabinen": [
-        "Gast 1",
-        "Gast 2",
-        "Schiedsrichter"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T08:33"
-    },
-    {
       "id": "bmttukdt4pr0cq",
       "platzId": "p2",
       "datum": "2026-10-25",
