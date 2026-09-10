@@ -13112,25 +13112,6 @@
       "serieId": "smtsilguf5edqh"
     },
     {
-      "id": "bmttuyqw6dqvpi",
-      "platzId": "p2",
-      "datum": "2026-11-16",
-      "von": "18:30",
-      "bis": "20:30",
-      "typ": "Spiel",
-      "mannschaft": "B-Jugend 2",
-      "kabinen": [
-        "Heim 2",
-        "Gast 2",
-        "Schiedsrichter"
-      ],
-      "notiz": "DJK SV Keilberg-Regensburg",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T08:50"
-    },
-    {
       "id": "bmtsiiizt3y3gp",
       "platzId": "p3",
       "datum": "2026-11-16",
