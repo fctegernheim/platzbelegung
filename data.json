@@ -9096,26 +9096,8 @@
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
-      "typ": "Training",
-      "mannschaft": "Alte Liga",
-      "kabinen": [
-        "Gast 1"
-      ],
-      "notiz": "",
-      "id": "bmtsj8ld1eyf21",
-      "datum": "2026-09-16",
-      "serieId": "smtsj8klmcf1vm",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
-    },
-    {
-      "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9128,12 +9110,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9146,12 +9129,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9164,12 +9148,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9182,12 +9167,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9200,12 +9186,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9218,12 +9205,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9236,12 +9224,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9254,12 +9243,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9272,12 +9262,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9290,12 +9281,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9308,12 +9300,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9326,12 +9319,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9344,12 +9338,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9362,12 +9357,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9380,12 +9376,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9398,12 +9395,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9416,12 +9414,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9434,12 +9433,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9452,12 +9452,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9470,12 +9471,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9488,12 +9490,13 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "platzId": "p2",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -9506,7 +9509,8 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:34"
+      "geaendertAm": "2026-09-10T10:09",
+      "konflikt": true
     },
     {
       "id": "bmtrjh5isyvn6z",
@@ -12614,21 +12618,22 @@
     },
     {
       "id": "bmtsj8ld1gf7bv",
-      "platzId": "p3",
+      "platzId": "p2",
       "datum": "2026-11-04",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
-        "Heim 1"
+        "Gast 1"
       ],
       "notiz": "",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T08:44",
-      "serieId": "smtsj8klmcf1vm"
+      "geaendertAm": "2026-09-10T10:09",
+      "serieId": "smtsj8klmcf1vm",
+      "konflikt": true
     },
     {
       "id": "bmtrjfk8waihhl",
@@ -12840,10 +12845,10 @@
     },
     {
       "id": "bmtsj8ld1xhxni",
-      "platzId": "p3",
+      "platzId": "p2",
       "datum": "2026-09-30",
-      "von": "18:30",
-      "bis": "20:00",
+      "von": "19:00",
+      "bis": "20:30",
       "typ": "Training",
       "mannschaft": "Alte Liga",
       "kabinen": [
@@ -12853,9 +12858,9 @@
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T09:05",
+      "geaendertAm": "2026-09-10T10:09",
       "serieId": "smtsj8klmcf1vm",
-      "konflikt": false
+      "konflikt": true
     },
     {
       "id": "bmtsj6fml1ptec",
@@ -13748,6 +13753,25 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-10T10:06",
       "konflikt": true
+    },
+    {
+      "id": "bmtsj8ld1eyf21",
+      "platzId": "p2",
+      "datum": "2026-09-16",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "Alte Liga",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-10T10:09",
+      "serieId": "smtsj8klmcf1vm",
+      "konflikt": true
     }
   ],
   "zugang": {
@@ -14195,8 +14219,8 @@
       "erstelltVon": "leitung",
       "vorlage": {
         "platzId": "p2",
-        "von": "18:30",
-        "bis": "20:00",
+        "von": "19:00",
+        "bis": "20:30",
         "typ": "Training",
         "mannschaft": "Alte Liga",
         "kabinen": [
