@@ -13815,6 +13815,25 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-10T07:38",
       "konflikt": false
+    },
+    {
+      "id": "bmtv7v8jruao4n",
+      "platzId": "p4",
+      "datum": "2026-10-02",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Spiel",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "TV Barbing II",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-10T07:39",
+      "konflikt": false
     }
   ],
   "zugang": {
