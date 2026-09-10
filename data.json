@@ -13796,6 +13796,26 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-10T06:52",
       "konflikt": true
+    },
+    {
+      "id": "bmtv7tptxz3qhy",
+      "platzId": "p4",
+      "datum": "2026-09-18",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Spiel",
+      "mannschaft": "E-Jugend 2",
+      "kabinen": [
+        "Schiedsrichter",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "SV Ballern Regensburg II",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-10T07:38",
+      "konflikt": true
     }
   ],
   "zugang": {
