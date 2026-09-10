@@ -13704,6 +13704,22 @@
       "geaendertAm": "2026-09-10T10:26",
       "serieId": "smtsj8klmcf1vm",
       "konflikt": false
+    },
+    {
+      "id": "bmtvscnekohvvj",
+      "platzId": "p1",
+      "datum": "2026-09-11",
+      "von": "18:00",
+      "bis": "19:30",
+      "typ": "Training",
+      "mannschaft": "TESTMANNSCHAFT",
+      "kabinen": [],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-10T17:12",
+      "konflikt": false
     }
   ],
   "zugang": {
