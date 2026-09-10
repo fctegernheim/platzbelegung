@@ -13715,10 +13715,10 @@
       "mannschaft": "TESTMANNSCHAFT",
       "kabinen": [],
       "notiz": "",
-      "status": "angefragt",
-      "grund": "",
+      "status": "abgelehnt",
+      "grund": "test",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-10T17:12",
+      "geaendertAm": "2026-09-10T17:14",
       "konflikt": false
     }
   ],
