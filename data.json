@@ -13693,22 +13693,6 @@
       "geaendertAm": "2026-09-10T07:49"
     },
     {
-      "id": "bmtrjuzot8zqbw",
-      "platzId": "p4",
-      "datum": "2026-09-17",
-      "von": "16:30",
-      "bis": "17:30",
-      "typ": "Training",
-      "mannschaft": "G-Jugend 2",
-      "kabinen": [],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-10T09:39",
-      "konflikt": true
-    },
-    {
       "id": "bmtsjc87usb4u8",
       "platzId": "p4",
       "datum": "2026-09-16",
