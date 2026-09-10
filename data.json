@@ -12579,24 +12579,6 @@
       "serieId": "smtsj6exrjkl47"
     },
     {
-      "id": "bmtsj8ld1gf7bv",
-      "platzId": "p2",
-      "datum": "2026-11-04",
-      "von": "19:00",
-      "bis": "20:30",
-      "typ": "Training",
-      "mannschaft": "Alte Liga",
-      "kabinen": [
-        "Gast 1"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-10T10:09",
-      "serieId": "smtsj8klmcf1vm"
-    },
-    {
       "id": "bmtrjfk8waihhl",
       "platzId": "p3",
       "datum": "2026-10-20",
@@ -13703,6 +13685,25 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-10T10:25",
       "konflikt": true
+    },
+    {
+      "id": "bmtsj8ld1gf7bv",
+      "platzId": "p2",
+      "datum": "2026-11-04",
+      "von": "19:15",
+      "bis": "20:45",
+      "typ": "Training",
+      "mannschaft": "Alte Liga",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-10T10:26",
+      "serieId": "smtsj8klmcf1vm",
+      "konflikt": false
     }
   ],
   "zugang": {
