@@ -12857,26 +12857,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtsk4gi4jzyzy",
-      "platzId": "p2",
-      "datum": "2026-09-13",
-      "von": "11:00",
-      "bis": "13:00",
-      "typ": "Spiel",
-      "mannschaft": "B-Jugend (U 17)",
-      "kabinen": [
-        "Heim 1",
-        "Gast 1",
-        "Schiedsrichter"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T11:22",
-      "konflikt": false
-    },
-    {
       "id": "bmttv3td2dxx8v",
       "platzId": "p2",
       "datum": "2026-09-26",
@@ -13720,6 +13700,26 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-10T17:14",
       "konflikt": false
+    },
+    {
+      "id": "bmtsk4gi4jzyzy",
+      "platzId": "p2",
+      "datum": "2026-09-13",
+      "von": "12:00",
+      "bis": "16:00",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Heim 1",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "SG TSV Oberalteich",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-10T20:55",
+      "konflikt": true
     }
   ],
   "zugang": {
