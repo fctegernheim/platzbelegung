@@ -12796,28 +12796,6 @@
       "konflikt": false
     },
     {
-      "id": "bmttsc8utnlkq7",
-      "platzId": "p1",
-      "datum": "2026-09-12",
-      "von": "08:00",
-      "bis": "17:00",
-      "typ": "Spiel",
-      "mannschaft": "Biersack Cup",
-      "kabinen": [
-        "Heim 1",
-        "Gast 1",
-        "Gast 2",
-        "Jugend 1",
-        "Jugend 2",
-        "Jugend 3"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T07:37"
-    },
-    {
       "id": "bmttsec2dr07z4",
       "platzId": "p4",
       "datum": "2026-09-12",
@@ -13853,6 +13831,30 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-10T07:40",
       "konflikt": false
+    },
+    {
+      "id": "bmttsc8utnlkq7",
+      "platzId": "p1",
+      "datum": "2026-09-12",
+      "von": "08:00",
+      "bis": "17:00",
+      "typ": "Spiel",
+      "mannschaft": "Biersack Cup",
+      "kabinen": [
+        "Heim 1",
+        "Heim 2",
+        "Gast 1",
+        "Gast 2",
+        "Jugend 1",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-10T07:49",
+      "konflikt": true
     }
   ],
   "zugang": {
