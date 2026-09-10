@@ -3690,21 +3690,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtrjuzot8zqbw",
-      "platzId": "p4",
-      "datum": "2026-09-17",
-      "von": "16:30",
-      "bis": "17:30",
-      "typ": "Training",
-      "mannschaft": "G-Jugend",
-      "kabinen": [],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-07T18:47"
-    },
-    {
       "id": "bmrk7j3fwl8iec",
       "platzId": "p1",
       "datum": "2026-09-13",
@@ -13855,6 +13840,22 @@
       "grund": "",
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-10T07:49"
+    },
+    {
+      "id": "bmtrjuzot8zqbw",
+      "platzId": "p4",
+      "datum": "2026-09-17",
+      "von": "16:30",
+      "bis": "17:30",
+      "typ": "Training",
+      "mannschaft": "G-Jugend 2",
+      "kabinen": [],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-10T07:58",
+      "konflikt": true
     }
   ],
   "zugang": {
