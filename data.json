@@ -12828,26 +12828,6 @@
       "konflikt": false
     },
     {
-      "id": "bmttsnkgdbb3i1",
-      "platzId": "p2",
-      "datum": "2026-10-09",
-      "von": "18:30",
-      "bis": "20:30",
-      "typ": "Spiel",
-      "mannschaft": "B-Jugend (U 17)",
-      "kabinen": [
-        "Heim 1",
-        "Gast 2",
-        "Schiedsrichter"
-      ],
-      "notiz": "FC Weiden-Ost",
-      "status": "abgelehnt",
-      "grund": "Spiel in Donaustauf",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-10T09:50",
-      "konflikt": true
-    },
-    {
       "id": "bmttt82yua3chq",
       "platzId": "p2",
       "datum": "2027-04-25",
@@ -13841,6 +13821,26 @@
       "geaendertAm": "2026-09-10T08:00",
       "serieId": "smtsjc708x1u6z",
       "konflikt": false
+    },
+    {
+      "id": "bmttsnkgdbb3i1",
+      "platzId": "p2",
+      "datum": "2026-10-09",
+      "von": "18:30",
+      "bis": "20:30",
+      "typ": "Spiel",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Heim 1",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "FC Weiden-Ost",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-10T09:51",
+      "konflikt": true
     }
   ],
   "zugang": {
