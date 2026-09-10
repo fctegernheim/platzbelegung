@@ -13007,25 +13007,6 @@
       "konflikt": false
     },
     {
-      "id": "bmttukdt4pr0cq",
-      "platzId": "p2",
-      "datum": "2026-10-25",
-      "von": "14:00",
-      "bis": "16:00",
-      "typ": "Spiel",
-      "mannschaft": "B-Jugend 2",
-      "kabinen": [
-        "Heim 1",
-        "Gast 1",
-        "Schiedsrichter"
-      ],
-      "notiz": "SG Walhalla Regensburg",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T08:39"
-    },
-    {
       "id": "bmtr8xiqyr73jk",
       "platzId": "p3",
       "datum": "2026-11-04",
