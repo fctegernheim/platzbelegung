@@ -13011,26 +13011,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtu1ffdccpas9",
-      "platzId": "p2",
-      "datum": "2026-11-04",
-      "von": "18:00",
-      "bis": "20:00",
-      "typ": "Spiel",
-      "mannschaft": "D-Jugend",
-      "kabinen": [
-        "Schiedsrichter",
-        "Jugend 2",
-        "Jugend 3"
-      ],
-      "notiz": "ASCV Burglengenfeld 2",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-10T09:50",
-      "konflikt": true
-    },
-    {
       "id": "bmtsl2jalxhus2",
       "platzId": "p2",
       "datum": "2026-11-13",
@@ -13703,6 +13683,26 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-10T10:09",
       "serieId": "smtsj8klmcf1vm"
+    },
+    {
+      "id": "bmtu1ffdccpas9",
+      "platzId": "p2",
+      "datum": "2026-11-04",
+      "von": "18:00",
+      "bis": "19:15",
+      "typ": "Spiel",
+      "mannschaft": "D-Jugend",
+      "kabinen": [
+        "Schiedsrichter",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "ASCV Burglengenfeld 2",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-10T10:25",
+      "konflikt": true
     }
   ],
   "zugang": {
