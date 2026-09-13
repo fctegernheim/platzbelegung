@@ -13739,6 +13739,25 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-13T06:43",
       "konflikt": true
+    },
+    {
+      "id": "bmtzga1eyakw6c",
+      "platzId": "p1",
+      "datum": "2026-10-24",
+      "von": "10:00",
+      "bis": "12:00",
+      "typ": "Spiel",
+      "mannschaft": "G-Jugend",
+      "kabinen": [
+        "Jugend 1",
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-13T06:45",
+      "konflikt": true
     }
   ],
   "zugang": {
