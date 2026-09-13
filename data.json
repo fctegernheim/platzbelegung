@@ -13777,6 +13777,25 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-13T06:47",
       "konflikt": false
+    },
+    {
+      "id": "bmtzgdwnifo4gp",
+      "platzId": "p1",
+      "datum": "2026-10-16",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 1",
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-13T06:48",
+      "konflikt": false
     }
   ],
   "zugang": {
