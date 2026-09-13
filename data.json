@@ -13720,6 +13720,25 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-10T20:56",
       "konflikt": true
+    },
+    {
+      "id": "bmtzg7i6loz1h9",
+      "platzId": "p1",
+      "datum": "2026-09-26",
+      "von": "10:00",
+      "bis": "12:00",
+      "typ": "Training",
+      "mannschaft": "G-Jugend",
+      "kabinen": [
+        "Jugend 1",
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-13T06:43",
+      "konflikt": true
     }
   ],
   "zugang": {
