@@ -13784,7 +13784,7 @@
       "datum": "2026-10-16",
       "von": "17:00",
       "bis": "19:00",
-      "typ": "Training",
+      "typ": "Spiel",
       "mannschaft": "F-Jugend",
       "kabinen": [
         "Jugend 1",
@@ -13794,7 +13794,7 @@
       "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-13T06:48",
+      "geaendertAm": "2026-09-13T06:49",
       "konflikt": false
     }
   ],
