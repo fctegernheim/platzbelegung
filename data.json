@@ -11566,25 +11566,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtu1inryusp86",
-      "platzId": "p2",
-      "datum": "2026-11-13",
-      "von": "18:30",
-      "bis": "20:30",
-      "typ": "Training",
-      "mannschaft": "D-Jugend",
-      "kabinen": [
-        "Schiedsrichter",
-        "Jugend 2",
-        "Jugend 3"
-      ],
-      "notiz": "SpVgg Ziegetsdorf",
-      "status": "angefragt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T11:53"
-    },
-    {
       "id": "bmtu1tsxxs5y8g",
       "platzId": "p4",
       "datum": "2026-09-19",
@@ -12435,6 +12416,26 @@
         "Schiedsrichter"
       ],
       "notiz": "Jahn Regensburg Futal",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-14T08:05",
+      "konflikt": true
+    },
+    {
+      "id": "bmtu1inryusp86",
+      "platzId": "p3",
+      "datum": "2026-11-13",
+      "von": "18:30",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "D-Jugend",
+      "kabinen": [
+        "Schiedsrichter",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "SpVgg Ziegetsdorf",
       "status": "genehmigt",
       "grund": "",
       "erstelltVon": "leitung",
