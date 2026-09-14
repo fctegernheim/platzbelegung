@@ -2331,25 +2331,6 @@
       "geaendertAm": "2026-09-13T16:45"
     },
     {
-      "platzId": "p2",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "B-Jugend 2",
-      "kabinen": [
-        "Gast 2"
-      ],
-      "notiz": "",
-      "id": "bmtrji8wefnjre",
-      "datum": "2026-09-29",
-      "serieId": "smtrji85nrcit6",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-13T16:45",
-      "konflikt": true
-    },
-    {
       "id": "bmtrjizfcevstw",
       "platzId": "p3",
       "datum": "2026-09-16",
@@ -12587,8 +12568,8 @@
         3
       ],
       "start": "2026-09-15",
-      "ende": "2026-09-30",
-      "horizont": "2026-09-30",
+      "ende": "2026-09-28",
+      "horizont": "2026-09-28",
       "status": "genehmigt",
       "erstelltVon": "trainer",
       "vorlage": {
