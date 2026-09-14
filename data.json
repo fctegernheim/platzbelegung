@@ -6027,24 +6027,6 @@
         "Jugend 3"
       ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
-      "id": "bmtsiw804y5zwm",
-      "datum": "2026-09-22",
-      "serieId": "smtsiw6zuyqix3",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-14T05:09"
-    },
-    {
-      "platzId": "p2",
-      "von": "17:15",
-      "bis": "18:45",
-      "typ": "Training",
-      "mannschaft": "D-Jugend",
-      "kabinen": [
-        "Jugend 3"
-      ],
-      "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtsiw804go3k2",
       "datum": "2026-09-29",
       "serieId": "smtsiw6zuyqix3",
