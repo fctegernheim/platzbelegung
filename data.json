@@ -12424,7 +12424,7 @@
     },
     {
       "id": "bmtu1inryusp86",
-      "platzId": "p3",
+      "platzId": "p2",
       "datum": "2026-11-13",
       "von": "18:30",
       "bis": "20:30",
@@ -12436,10 +12436,10 @@
         "Jugend 3"
       ],
       "notiz": "SpVgg Ziegetsdorf",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-14T08:05",
+      "geaendertAm": "2026-09-14T08:06",
       "konflikt": true
     }
   ],
