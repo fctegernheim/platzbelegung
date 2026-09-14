@@ -12349,25 +12349,6 @@
       "konflikt": true
     },
     {
-      "id": "bmtzgdwnifo4gp",
-      "platzId": "p4",
-      "datum": "2026-10-16",
-      "von": "17:00",
-      "bis": "19:00",
-      "typ": "Spiel",
-      "mannschaft": "F-Jugend",
-      "kabinen": [
-        "Jugend 1",
-        "Jugend 2"
-      ],
-      "notiz": "",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:12",
-      "konflikt": false
-    },
-    {
       "id": "bmtzga1eyakw6c",
       "platzId": "p2",
       "datum": "2026-10-24",
@@ -12439,6 +12420,25 @@
       "grund": "",
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-14T06:54",
+      "konflikt": false
+    },
+    {
+      "id": "bmtzgdwnifo4gp",
+      "platzId": "p1",
+      "datum": "2026-10-16",
+      "von": "17:00",
+      "bis": "19:00",
+      "typ": "Spiel",
+      "mannschaft": "F-Jugend",
+      "kabinen": [
+        "Jugend 1",
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-14T06:57",
       "konflikt": false
     }
   ],
