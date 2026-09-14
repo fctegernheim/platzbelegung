@@ -12385,25 +12385,6 @@
       "serieId": "smtsj8klmcf1vm"
     },
     {
-      "id": "bmu0vzv0bhwhr7",
-      "platzId": "p1",
-      "datum": "2026-09-26",
-      "von": "10:00",
-      "bis": "12:00",
-      "typ": "Spiel",
-      "mannschaft": "G-Jugend",
-      "kabinen": [
-        "Jugend 1",
-        "Jugend 2"
-      ],
-      "notiz": "",
-      "status": "angefragt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T06:53",
-      "konflikt": true
-    },
-    {
       "id": "bmtzgdwnifo4gp",
       "platzId": "p1",
       "datum": "2026-10-16",
@@ -12440,6 +12421,25 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-14T08:03",
       "konflikt": false
+    },
+    {
+      "id": "bmu0vzv0bhwhr7",
+      "platzId": "p1",
+      "datum": "2026-09-26",
+      "von": "10:00",
+      "bis": "12:00",
+      "typ": "Spiel",
+      "mannschaft": "G-Jugend",
+      "kabinen": [
+        "Jugend 1",
+        "Jugend 2"
+      ],
+      "notiz": "",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-14T08:04",
+      "konflikt": true
     }
   ],
   "zugang": {
