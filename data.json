@@ -2340,24 +2340,6 @@
         "Gast 2"
       ],
       "notiz": "",
-      "id": "bmtrji8we91qth",
-      "datum": "2026-09-22",
-      "serieId": "smtrji85nrcit6",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-13T16:45"
-    },
-    {
-      "platzId": "p2",
-      "von": "17:30",
-      "bis": "19:00",
-      "typ": "Training",
-      "mannschaft": "B-Jugend 2",
-      "kabinen": [
-        "Gast 2"
-      ],
-      "notiz": "",
       "id": "bmtrji8we11apc",
       "datum": "2026-09-24",
       "serieId": "smtrji85nrcit6",
