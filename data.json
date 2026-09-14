@@ -11566,26 +11566,6 @@
       "konflikt": false
     },
     {
-      "id": "bmtsl2jalxhus2",
-      "platzId": "p2",
-      "datum": "2026-11-13",
-      "von": "18:30",
-      "bis": "20:30",
-      "typ": "Spiel",
-      "mannschaft": "A-Jugend (U 19)",
-      "kabinen": [
-        "Heim 2",
-        "Gast 1",
-        "Schiedsrichter"
-      ],
-      "notiz": "Jahn Regensburg Futal",
-      "status": "angefragt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-09T11:52",
-      "konflikt": false
-    },
-    {
       "id": "bmtu1inryusp86",
       "platzId": "p2",
       "datum": "2026-11-13",
@@ -12439,6 +12419,26 @@
       "grund": "",
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-14T08:04",
+      "konflikt": true
+    },
+    {
+      "id": "bmtsl2jalxhus2",
+      "platzId": "p2",
+      "datum": "2026-11-13",
+      "von": "18:30",
+      "bis": "20:30",
+      "typ": "Spiel",
+      "mannschaft": "A-Jugend (U 19)",
+      "kabinen": [
+        "Heim 2",
+        "Gast 1",
+        "Schiedsrichter"
+      ],
+      "notiz": "Jahn Regensburg Futal",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-14T08:05",
       "konflikt": true
     }
   ],
