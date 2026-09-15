@@ -1429,31 +1429,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
-      "notiz": "Viertelstunde Puffer zum Aufräumen",
-      "id": "bmtrjfk8wtyqb6",
-      "datum": "2026-09-17",
-      "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
-    },
-    {
-      "platzId": "p2",
-      "von": "17:15",
-      "bis": "18:45",
-      "typ": "Training",
-      "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8w63rk9",
       "datum": "2026-09-22",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1461,15 +1448,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8w93iqg",
       "datum": "2026-09-24",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1477,15 +1467,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8weg5ew",
       "datum": "2026-09-29",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1493,15 +1486,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8wppx05",
       "datum": "2026-10-01",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1509,15 +1505,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8w9ja3h",
       "datum": "2026-10-06",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1525,15 +1524,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8w53t61",
       "datum": "2026-10-08",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1541,15 +1543,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8wcpxwj",
       "datum": "2026-10-13",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1557,15 +1562,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8ww9edu",
       "datum": "2026-10-15",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1573,15 +1581,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8wg2z5d",
       "datum": "2026-10-22",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1589,15 +1600,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8wfxsrk",
       "datum": "2026-10-27",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1605,15 +1619,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8xu4eix",
       "datum": "2026-10-29",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1621,15 +1638,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8xamurz",
       "datum": "2026-11-03",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1637,15 +1657,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8xf9a4x",
       "datum": "2026-11-05",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1653,15 +1676,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8xff9m3",
       "datum": "2026-11-10",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1669,15 +1695,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8xp1dbw",
       "datum": "2026-11-12",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1685,15 +1714,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8xfpx0g",
       "datum": "2026-11-17",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1701,15 +1733,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8xz1jkw",
       "datum": "2026-11-19",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1717,15 +1752,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8xa9tb1",
       "datum": "2026-11-24",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p2",
@@ -1733,15 +1771,18 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8xmdu29",
       "datum": "2026-11-26",
       "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09"
+      "geaendertAm": "2026-09-15T11:02",
+      "konflikt": true
     },
     {
       "platzId": "p3",
@@ -11199,12 +11240,14 @@
       "bis": "18:45",
       "typ": "Training",
       "mannschaft": "D-Jugend",
-      "kabinen": [],
+      "kabinen": [
+        "Jugend 1"
+      ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
-      "status": "genehmigt",
+      "status": "angefragt",
       "grund": "",
       "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-14T05:09",
+      "geaendertAm": "2026-09-15T11:02",
       "serieId": "smtrjfjioia3rl",
       "konflikt": false
     },
@@ -12440,6 +12483,25 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-09-14T08:06",
       "konflikt": true
+    },
+    {
+      "id": "bmtrjfk8wtyqb6",
+      "platzId": "p2",
+      "datum": "2026-09-17",
+      "von": "17:15",
+      "bis": "18:45",
+      "typ": "Training",
+      "mannschaft": "D-Jugend",
+      "kabinen": [
+        "Jugend 1"
+      ],
+      "notiz": "Viertelstunde Puffer zum Aufräumen",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-15T11:02",
+      "serieId": "smtrjfjioia3rl",
+      "konflikt": true
     }
   ],
   "zugang": {
@@ -12513,7 +12575,9 @@
         "bis": "18:45",
         "typ": "Training",
         "mannschaft": "D-Jugend",
-        "kabinen": [],
+        "kabinen": [
+          "Jugend 1"
+        ],
         "notiz": "Viertelstunde Puffer zum Aufräumen"
       }
     },
