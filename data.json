@@ -12429,26 +12429,6 @@
       "geaendertAm": "2026-09-14T08:04"
     },
     {
-      "id": "bmtu1inryusp86",
-      "platzId": "p2",
-      "datum": "2026-11-13",
-      "von": "18:30",
-      "bis": "20:30",
-      "typ": "Training",
-      "mannschaft": "D-Jugend",
-      "kabinen": [
-        "Schiedsrichter",
-        "Jugend 2",
-        "Jugend 3"
-      ],
-      "notiz": "SpVgg Ziegetsdorf",
-      "status": "angefragt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-14T08:06",
-      "konflikt": true
-    },
-    {
       "id": "bmtsl2jalxhus2",
       "platzId": "p2",
       "datum": "2026-11-13",
@@ -12504,6 +12484,26 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-15T13:13",
       "serieId": "smtrjfjioia3rl",
+      "konflikt": true
+    },
+    {
+      "id": "bmtu1inryusp86",
+      "platzId": "p2",
+      "datum": "2026-11-13",
+      "von": "18:30",
+      "bis": "20:30",
+      "typ": "Spiel",
+      "mannschaft": "D-Jugend",
+      "kabinen": [
+        "Schiedsrichter",
+        "Jugend 2",
+        "Jugend 3"
+      ],
+      "notiz": "SpVgg Ziegetsdorf",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-09-15T13:38",
       "konflikt": true
     }
   ],
