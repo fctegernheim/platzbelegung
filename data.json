@@ -12485,6 +12485,24 @@
       "geaendertAm": "2026-09-21T09:58",
       "serieId": "smtsiguhuwgxgh",
       "konflikt": true
+    },
+    {
+      "id": "bmujzwbb13lgny",
+      "platzId": "p2",
+      "datum": "2026-09-28",
+      "von": "17:30",
+      "bis": "19:00",
+      "typ": "Training",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "Trainingsverlegung wg. Nachholspiel am Mittwoch",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-27T15:50",
+      "konflikt": true
     }
   ],
   "zugang": {
