@@ -11675,6 +11675,26 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-09-27T15:50",
       "konflikt": true
+    },
+    {
+      "id": "bmukwmvowv71w4",
+      "platzId": "p1",
+      "datum": "2026-10-02",
+      "von": "16:30",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "C-Jugend 2",
+      "kabinen": [
+        "Heim 2",
+        "Gast 2",
+        "Jugend 1"
+      ],
+      "notiz": "Schiedsrichter evtl. in Gast 2 und Heimmannschaft in Jugendcontainer",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-09-28T07:06",
+      "konflikt": false
     }
   ],
   "zugang": {
