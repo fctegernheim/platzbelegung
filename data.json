@@ -11336,6 +11336,26 @@
       "geaendertAm": "2026-10-13T08:03",
       "serieId": "smtsj8klmcf1vm",
       "konflikt": true
+    },
+    {
+      "id": "bmv6ed7pt4alky",
+      "platzId": "p1",
+      "datum": "2026-10-15",
+      "von": "15:00",
+      "bis": "18:30",
+      "typ": "Spiel",
+      "mannschaft": "Fremdvergabe / Gast",
+      "kabinen": [
+        "Gast 1",
+        "Gast 2",
+        "Schiedsrichter"
+      ],
+      "notiz": "SSV Jahn Regensburg U13 : Budapest",
+      "status": "genehmigt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-10-13T08:06",
+      "konflikt": false
     }
   ],
   "zugang": {
