@@ -11356,6 +11356,24 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-10-13T08:06",
       "konflikt": false
+    },
+    {
+      "id": "bmv8k1l0ydio7a",
+      "platzId": "p2",
+      "datum": "2026-10-16",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "Zusatztraining wg. Spiel am Sonntag; A-Jgd. nutzt die Zeit nicht (Auswärtsspiel)",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-10-14T20:20",
+      "konflikt": true
     }
   ],
   "zugang": {
