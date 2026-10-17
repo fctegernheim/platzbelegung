@@ -6969,24 +6969,6 @@
         "Gast 1"
       ],
       "notiz": "",
-      "id": "bmtsj8ld1tscz4",
-      "datum": "2026-10-14",
-      "serieId": "smtsj8klmcf1vm",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-10T10:09"
-    },
-    {
-      "platzId": "p2",
-      "von": "19:00",
-      "bis": "20:30",
-      "typ": "Training",
-      "mannschaft": "Alte Liga",
-      "kabinen": [
-        "Gast 1"
-      ],
-      "notiz": "",
       "id": "bmtsj8ld1qso6e",
       "datum": "2026-10-21",
       "serieId": "smtsj8klmcf1vm",
@@ -11373,6 +11355,25 @@
       "grund": "",
       "erstelltVon": "trainer",
       "geaendertAm": "2026-10-14T20:20",
+      "konflikt": true
+    },
+    {
+      "id": "bmtsj8ld1tscz4",
+      "platzId": "p2",
+      "datum": "2026-10-14",
+      "von": "19:00",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "Alte Liga",
+      "kabinen": [
+        "Gast 1"
+      ],
+      "notiz": "Testspiel auf halben Platz !",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "leitung",
+      "geaendertAm": "2026-10-17T05:54",
+      "serieId": "smtsj8klmcf1vm",
       "konflikt": true
     }
   ],
