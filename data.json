@@ -11357,23 +11357,6 @@
       "geaendertAm": "2026-10-17T05:54",
       "serieId": "smtsj8klmcf1vm",
       "konflikt": true
-    },
-    {
-      "id": "bmtsiiiztvq22i",
-      "platzId": "p2",
-      "datum": "2026-11-04",
-      "von": "18:00",
-      "bis": "19:30",
-      "typ": "Training",
-      "mannschaft": "A-Jugend (U 19)",
-      "kabinen": [],
-      "notiz": "",
-      "status": "angefragt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-10-17T06:41",
-      "serieId": "smtsiiidgtgmii",
-      "konflikt": true
     }
   ],
   "zugang": {
