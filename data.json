@@ -6573,24 +6573,6 @@
         "Heim 2"
       ],
       "notiz": "",
-      "id": "bmtsj6fmm0nmjm",
-      "datum": "2026-10-21",
-      "serieId": "smtsj6exrjkl47",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "leitung",
-      "geaendertAm": "2026-09-08T10:32"
-    },
-    {
-      "platzId": "p2",
-      "von": "18:00",
-      "bis": "19:30",
-      "typ": "Training",
-      "mannschaft": "A-Jugend (U 19)",
-      "kabinen": [
-        "Heim 2"
-      ],
-      "notiz": "",
       "id": "bmtsj6fmm1ws68",
       "datum": "2026-10-28",
       "serieId": "smtsj6exrjkl47",
