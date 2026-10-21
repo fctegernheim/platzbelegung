@@ -11937,15 +11937,6 @@
   ],
   "sperren": [
     {
-      "id": "xmvigda61lsu1r",
-      "art": "platz",
-      "ziel": "p2",
-      "von": "2026-10-21T00:00",
-      "bis": "2026-10-21T23:59",
-      "grund": "Platz wegen Wetterlage gesperrt",
-      "erstelltAm": "2026-10-21T18:35"
-    },
-    {
       "id": "xmvigdrc9oc7jg",
       "art": "platz",
       "ziel": "p1",
