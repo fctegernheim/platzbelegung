@@ -11339,6 +11339,22 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-10-18T07:14",
       "serieId": "smtsj6exrjkl47"
+    },
+    {
+      "id": "bmvj6q16d2nfyt",
+      "platzId": "p3",
+      "datum": "2026-10-23",
+      "von": "16:30",
+      "bis": "18:00",
+      "typ": "Training",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-10-22T06:53",
+      "konflikt": true
     }
   ],
   "zugang": {
