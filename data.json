@@ -11356,6 +11356,24 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-10-25T07:26",
       "konflikt": true
+    },
+    {
+      "id": "bmvpk3hyogvnew",
+      "platzId": "p2",
+      "datum": "2026-11-06",
+      "von": "17:00",
+      "bis": "18:30",
+      "typ": "Training",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [
+        "Heim 2"
+      ],
+      "notiz": "wg. Sonntagsspieltag",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-10-26T17:54",
+      "konflikt": true
     }
   ],
   "zugang": {
