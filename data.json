@@ -11997,6 +11997,15 @@
       "bis": "2026-10-28T23:59",
       "grund": "Wetterlage",
       "erstelltAm": "2026-10-28T10:19"
+    },
+    {
+      "id": "xmvryregblicb7",
+      "art": "platz",
+      "ziel": "p2",
+      "von": "2026-10-28T00:00",
+      "bis": "2026-10-28T23:59",
+      "grund": "",
+      "erstelltAm": "2026-10-28T10:20"
     }
   ],
   "zugangLeitung": {
