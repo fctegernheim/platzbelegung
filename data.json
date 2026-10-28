@@ -11374,6 +11374,22 @@
       "erstelltVon": "trainer",
       "geaendertAm": "2026-10-27T03:27",
       "konflikt": true
+    },
+    {
+      "id": "bmvs2dfhp238l8",
+      "platzId": "p3",
+      "datum": "2026-10-28",
+      "von": "18:00",
+      "bis": "20:00",
+      "typ": "Training",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [],
+      "notiz": "Spielbelegung in Stauf",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-10-28T12:01",
+      "konflikt": false
     }
   ],
   "zugang": {
