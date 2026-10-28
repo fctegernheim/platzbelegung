@@ -11988,6 +11988,15 @@
       "bis": "2026-10-22T23:59",
       "grund": "Platzsperre wegen Wetterlage",
       "erstelltAm": "2026-10-21T18:37"
+    },
+    {
+      "id": "xmvryqcsdd4k9e",
+      "art": "platz",
+      "ziel": "p1",
+      "von": "2026-10-28T00:00",
+      "bis": "2026-10-28T23:59",
+      "grund": "Wetterlage",
+      "erstelltAm": "2026-10-28T10:19"
     }
   ],
   "zugangLeitung": {
