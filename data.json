@@ -12022,6 +12022,15 @@
       "bis": "2026-10-28T23:59",
       "grund": "",
       "erstelltAm": "2026-10-28T10:20"
+    },
+    {
+      "id": "xmvs38nwuhfz84",
+      "art": "platz",
+      "ziel": "p4",
+      "von": "2026-10-28T00:00",
+      "bis": "2026-10-28T23:59",
+      "grund": "Wetterbedingungen",
+      "erstelltAm": "2026-10-28T12:25"
     }
   ],
   "zugangLeitung": {
