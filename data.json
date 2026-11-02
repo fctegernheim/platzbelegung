@@ -1633,24 +1633,6 @@
         "Jugend 1"
       ],
       "notiz": "Viertelstunde Puffer zum Aufräumen",
-      "id": "bmtrjfk8xf9a4x",
-      "datum": "2026-11-05",
-      "serieId": "smtrjfjioia3rl",
-      "status": "genehmigt",
-      "grund": "",
-      "erstelltVon": "trainer",
-      "geaendertAm": "2026-09-15T13:13"
-    },
-    {
-      "platzId": "p2",
-      "von": "17:15",
-      "bis": "18:45",
-      "typ": "Training",
-      "mannschaft": "D-Jugend",
-      "kabinen": [
-        "Jugend 1"
-      ],
-      "notiz": "Viertelstunde Puffer zum Aufräumen",
       "id": "bmtrjfk8xff9m3",
       "datum": "2026-11-10",
       "serieId": "smtrjfjioia3rl",
