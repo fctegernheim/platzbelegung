@@ -11370,6 +11370,22 @@
       "erstelltVon": "leitung",
       "geaendertAm": "2026-11-02T07:56",
       "konflikt": false
+    },
+    {
+      "id": "bmwl2elesk368u",
+      "platzId": "p3",
+      "datum": "2026-11-18",
+      "von": "18:30",
+      "bis": "20:30",
+      "typ": "Training",
+      "mannschaft": "B-Jugend (U 17)",
+      "kabinen": [],
+      "notiz": "",
+      "status": "angefragt",
+      "grund": "",
+      "erstelltVon": "trainer",
+      "geaendertAm": "2026-11-17T19:07",
+      "konflikt": false
     }
   ],
   "zugang": {
