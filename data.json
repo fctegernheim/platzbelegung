@@ -12036,6 +12036,15 @@
       "bis": "2026-11-11T23:59",
       "grund": "Wetterlage",
       "erstelltAm": "2026-11-11T11:37"
+    },
+    {
+      "id": "xmwlv8kt0ibkrl",
+      "art": "platz",
+      "ziel": "p1",
+      "von": "2026-11-18T00:00",
+      "bis": "2026-12-31T23:59",
+      "grund": "Wetterlage/Regeneration",
+      "erstelltAm": "2026-11-18T08:35"
     }
   ],
   "zugangLeitung": {
